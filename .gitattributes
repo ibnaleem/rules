@@ -1,0 +1,2 @@
+fordy/Fordyv4a.rule filter=lfs diff=lfs merge=lfs -text
+fordy/Fordyv4b.rule filter=lfs diff=lfs merge=lfs -text
