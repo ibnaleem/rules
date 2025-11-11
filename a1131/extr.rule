@@ -1,5 +1,5 @@
 # Rule file generated from comparing two wordlists by using -m 99999 --debug mode.
-# hashcat -m 99999 base.txt target.txt -r rulefile.rule --debug-file outputRules.txt --debug-mode 1 --hwmon-temp-abort=95 -O --hwmon-disable && cat outputRules.txt | uniq -c | sort -nr | cut -c 9- | awk '!seen[$0]++' >  > output.rule
+# hashcat -m 99999 base.txt target.txt -r rulefile.rule --debug-file outputRules.txt --debug-mode 1 --hwmon-temp-abort=95 -O --hwmon-disable && cat outputRules.txt | uniq -c | sort -nr | cut -c 9- | awk '!seen[$0]++' > output.rule
 # Thanks to Penguinkeeper for the tip.
 :
 o0s o1o o2n
