@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/ibnaleem/rules)
+
 # Hashcat Rules Collection
 An updated, curated collection of Hashcat rules for cracking complex passwords.
 
