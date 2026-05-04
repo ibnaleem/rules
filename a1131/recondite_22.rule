@@ -1,0 +1,27 @@
+# Concentrator v3.0 - EXTRACTED_FILTERED Rules
+# Generated: 2025-11-26 23:04:41
+# Total rules: 22
+# Mode: extracted_filtered
+#
+:
+T0
+$1
+u
+$2
+$1$2
+$7
+$5
+$4
+$6
+Z1
+$0$1
+$0
+$9
+$3
+$1$1
+$1$0
+$1$2$3
+r
+Z2
+$8
+$1$3
