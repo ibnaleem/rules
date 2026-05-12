@@ -1,0 +1,6760 @@
+i0a
+i1a
+i2a
+i3a
+i4a
+i5a
+i6a
+i7a
+i8a
+i9a
+iAa
+iBa
+iCa
+iDa
+i0_ i1a
+i1_ i2a
+i2_ i3a
+i3_ i4a
+i4_ i5a
+i5_ i6a
+i6_ i7a
+i7_ i8a
+i8_ i9a
+i9_ iAa
+iA_ iBa
+iB_ iCa
+iC_ iDa
+i0a i1_
+i1a i2_
+i2a i3_
+i3a i4_
+i4a i5_
+i5a i6_
+i6a i7_
+i7a i8_
+i8a i9_
+i9a iA_
+iAa iB_
+iBa iC_
+iCa iD_
+i0_ i1a i2_
+i1_ i2a i3_
+i2_ i3a i4_
+i3_ i4a i5_
+i4_ i5a i6_
+i5_ i6a i7_
+i6_ i7a i8_
+i7_ i8a i9_
+i8_ i9a iA_
+i9_ iAa iB_
+iA_ iBa iC_
+iB_ iCa iD_
+i0. i1a
+i1. i2a
+i2. i3a
+i3. i4a
+i4. i5a
+i5. i6a
+i6. i7a
+i7. i8a
+i8. i9a
+i9. iAa
+iA. iBa
+iB. iCa
+iC. iDa
+i0a i1.
+i1a i2.
+i2a i3.
+i3a i4.
+i4a i5.
+i5a i6.
+i6a i7.
+i7a i8.
+i8a i9.
+i9a iA.
+iAa iB.
+iBa iC.
+iCa iD.
+i0. i1a i2.
+i1. i2a i3.
+i2. i3a i4.
+i3. i4a i5.
+i4. i5a i6.
+i5. i6a i7.
+i6. i7a i8.
+i7. i8a i9.
+i8. i9a iA.
+i9. iAa iB.
+iA. iBa iC.
+iB. iCa iD.
+i0. i1_ i2a
+i1. i2_ i3a
+i2. i3_ i4a
+i3. i4_ i5a
+i4. i5_ i6a
+i5. i6_ i7a
+i6. i7_ i8a
+i7. i8_ i9a
+i8. i9_ iAa
+i9. iA_ iBa
+iA. iB_ iCa
+iB. iC_ iDa
+i0_ i1. i2a
+i1_ i2. i3a
+i2_ i3. i4a
+i3_ i4. i5a
+i4_ i5. i6a
+i5_ i6. i7a
+i6_ i7. i8a
+i7_ i8. i9a
+i8_ i9. iAa
+i9_ iA. iBa
+iA_ iB. iCa
+iB_ iC. iDa
+i0. i1_ i2a i3. i4_
+i1. i2_ i3a i4. i5_
+i2. i3_ i4a i5. i6_
+i3. i4_ i5a i6. i7_
+i4. i5_ i6a i7. i8_
+i5. i6_ i7a i8. i9_
+i6. i7_ i8a i9. iA_
+i7. i8_ i9a iA. iB_
+i8. i9_ iAa iB. iC_
+i9. iA_ iBa iC. iD_
+i0. i1_ i2a i3_ i4.
+i1. i2_ i3a i4_ i5.
+i2. i3_ i4a i5_ i6.
+i3. i4_ i5a i6_ i7.
+i4. i5_ i6a i7_ i8.
+i5. i6_ i7a i8_ i9.
+i6. i7_ i8a i9_ iA.
+i7. i8_ i9a iA_ iB.
+i8. i9_ iAa iB_ iC.
+i9. iA_ iBa iC_ iD.
+i0. i1_ i2a i3_
+i1. i2_ i3a i4_
+i2. i3_ i4a i5_
+i3. i4_ i5a i6_
+i4. i5_ i6a i7_
+i5. i6_ i7a i8_
+i6. i7_ i8a i9_
+i7. i8_ i9a iA_
+i8. i9_ iAa iB_
+i9. iA_ iBa iC_
+iA. iB_ iCa iD_
+i0. i1_ i2a i3.
+i1. i2_ i3a i4.
+i2. i3_ i4a i5.
+i3. i4_ i5a i6.
+i4. i5_ i6a i7.
+i5. i6_ i7a i8.
+i6. i7_ i8a i9.
+i7. i8_ i9a iA.
+i8. i9_ iAa iB.
+i9. iA_ iBa iC.
+iA. iB_ iCa iD.
+i0_ i1. i2a i3.
+i1_ i2. i3a i4.
+i2_ i3. i4a i5.
+i3_ i4. i5a i6.
+i4_ i5. i6a i7.
+i5_ i6. i7a i8.
+i6_ i7. i8a i9.
+i7_ i8. i9a iA.
+i8_ i9. iAa iB.
+i9_ iA. iBa iC.
+iA_ iB. iCa iD.
+i0_ i1. i2a i3. i4_
+i1_ i2. i3a i4. i5_
+i2_ i3. i4a i5. i6_
+i3_ i4. i5a i6. i7_
+i4_ i5. i6a i7. i8_
+i5_ i6. i7a i8. i9_
+i6_ i7. i8a i9. iA_
+i7_ i8. i9a iA. iB_
+i8_ i9. iAa iB. iC_
+i9_ iA. iBa iC. iD_
+i0_ i1. i2a i3_ i4.
+i1_ i2. i3a i4_ i5.
+i2_ i3. i4a i5_ i6.
+i3_ i4. i5a i6_ i7.
+i4_ i5. i6a i7_ i8.
+i5_ i6. i7a i8_ i9.
+i6_ i7. i8a i9_ iA.
+i7_ i8. i9a iA_ iB.
+i8_ i9. iAa iB_ iC.
+i9_ iA. iBa iC_ iD.
+i0_ i1. i2a i3_
+i1_ i2. i3a i4_
+i2_ i3. i4a i5_
+i3_ i4. i5a i6_
+i4_ i5. i6a i7_
+i5_ i6. i7a i8_
+i6_ i7. i8a i9_
+i7_ i8. i9a iA_
+i8_ i9. iAa iB_
+i9_ iA. iBa iC_
+iA_ iB. iCa iD_
+i0- i1a
+i1- i2a
+i2- i3a
+i3- i4a
+i4- i5a
+i5- i6a
+i6- i7a
+i7- i8a
+i8- i9a
+i9- iAa
+iA- iBa
+iB- iCa
+iC- iDa
+i0a i1-
+i1a i2-
+i2a i3-
+i3a i4-
+i4a i5-
+i5a i6-
+i6a i7-
+i7a i8-
+i8a i9-
+i9a iA-
+iAa iB-
+iBa iC-
+iCa iD-
+i0- i1a i2-
+i1- i2a i3-
+i2- i3a i4-
+i3- i4a i5-
+i4- i5a i6-
+i5- i6a i7-
+i6- i7a i8-
+i7- i8a i9-
+i8- i9a iA-
+i9- iAa iB-
+iA- iBa iC-
+iB- iCa iD-
+i0- i1a i2.
+i1- i2a i3.
+i2- i3a i4.
+i3- i4a i5.
+i4- i5a i6.
+i5- i6a i7.
+i6- i7a i8.
+i7- i8a i9.
+i8- i9a iA.
+i9- iAa iB.
+iA- iBa iC.
+iB- iCa iD.
+i0. i1a i2-
+i1. i2a i3-
+i2. i3a i4-
+i3. i4a i5-
+i4. i5a i6-
+i5. i6a i7-
+i6. i7a i8-
+i7. i8a i9-
+i8. i9a iA-
+i9. iAa iB-
+iA. iBa iC-
+iB. iCa iD-
+i0b
+i1b
+i2b
+i3b
+i4b
+i5b
+i6b
+i7b
+i8b
+i9b
+iAb
+iBb
+iCb
+iDb
+i0_ i1b
+i1_ i2b
+i2_ i3b
+i3_ i4b
+i4_ i5b
+i5_ i6b
+i6_ i7b
+i7_ i8b
+i8_ i9b
+i9_ iAb
+iA_ iBb
+iB_ iCb
+iC_ iDb
+i0b i1_
+i1b i2_
+i2b i3_
+i3b i4_
+i4b i5_
+i5b i6_
+i6b i7_
+i7b i8_
+i8b i9_
+i9b iA_
+iAb iB_
+iBb iC_
+iCb iD_
+i0_ i1b i2_
+i1_ i2b i3_
+i2_ i3b i4_
+i3_ i4b i5_
+i4_ i5b i6_
+i5_ i6b i7_
+i6_ i7b i8_
+i7_ i8b i9_
+i8_ i9b iA_
+i9_ iAb iB_
+iA_ iBb iC_
+iB_ iCb iD_
+i0. i1b
+i1. i2b
+i2. i3b
+i3. i4b
+i4. i5b
+i5. i6b
+i6. i7b
+i7. i8b
+i8. i9b
+i9. iAb
+iA. iBb
+iB. iCb
+iC. iDb
+i0b i1.
+i1b i2.
+i2b i3.
+i3b i4.
+i4b i5.
+i5b i6.
+i6b i7.
+i7b i8.
+i8b i9.
+i9b iA.
+iAb iB.
+iBb iC.
+iCb iD.
+i0. i1b i2.
+i1. i2b i3.
+i2. i3b i4.
+i3. i4b i5.
+i4. i5b i6.
+i5. i6b i7.
+i6. i7b i8.
+i7. i8b i9.
+i8. i9b iA.
+i9. iAb iB.
+iA. iBb iC.
+iB. iCb iD.
+i0. i1_ i2b
+i1. i2_ i3b
+i2. i3_ i4b
+i3. i4_ i5b
+i4. i5_ i6b
+i5. i6_ i7b
+i6. i7_ i8b
+i7. i8_ i9b
+i8. i9_ iAb
+i9. iA_ iBb
+iA. iB_ iCb
+iB. iC_ iDb
+i0_ i1. i2b
+i1_ i2. i3b
+i2_ i3. i4b
+i3_ i4. i5b
+i4_ i5. i6b
+i5_ i6. i7b
+i6_ i7. i8b
+i7_ i8. i9b
+i8_ i9. iAb
+i9_ iA. iBb
+iA_ iB. iCb
+iB_ iC. iDb
+i0. i1_ i2b i3. i4_
+i1. i2_ i3b i4. i5_
+i2. i3_ i4b i5. i6_
+i3. i4_ i5b i6. i7_
+i4. i5_ i6b i7. i8_
+i5. i6_ i7b i8. i9_
+i6. i7_ i8b i9. iA_
+i7. i8_ i9b iA. iB_
+i8. i9_ iAb iB. iC_
+i9. iA_ iBb iC. iD_
+i0. i1_ i2b i3_ i4.
+i1. i2_ i3b i4_ i5.
+i2. i3_ i4b i5_ i6.
+i3. i4_ i5b i6_ i7.
+i4. i5_ i6b i7_ i8.
+i5. i6_ i7b i8_ i9.
+i6. i7_ i8b i9_ iA.
+i7. i8_ i9b iA_ iB.
+i8. i9_ iAb iB_ iC.
+i9. iA_ iBb iC_ iD.
+i0. i1_ i2b i3_
+i1. i2_ i3b i4_
+i2. i3_ i4b i5_
+i3. i4_ i5b i6_
+i4. i5_ i6b i7_
+i5. i6_ i7b i8_
+i6. i7_ i8b i9_
+i7. i8_ i9b iA_
+i8. i9_ iAb iB_
+i9. iA_ iBb iC_
+iA. iB_ iCb iD_
+i0. i1_ i2b i3.
+i1. i2_ i3b i4.
+i2. i3_ i4b i5.
+i3. i4_ i5b i6.
+i4. i5_ i6b i7.
+i5. i6_ i7b i8.
+i6. i7_ i8b i9.
+i7. i8_ i9b iA.
+i8. i9_ iAb iB.
+i9. iA_ iBb iC.
+iA. iB_ iCb iD.
+i0_ i1. i2b i3.
+i1_ i2. i3b i4.
+i2_ i3. i4b i5.
+i3_ i4. i5b i6.
+i4_ i5. i6b i7.
+i5_ i6. i7b i8.
+i6_ i7. i8b i9.
+i7_ i8. i9b iA.
+i8_ i9. iAb iB.
+i9_ iA. iBb iC.
+iA_ iB. iCb iD.
+i0_ i1. i2b i3. i4_
+i1_ i2. i3b i4. i5_
+i2_ i3. i4b i5. i6_
+i3_ i4. i5b i6. i7_
+i4_ i5. i6b i7. i8_
+i5_ i6. i7b i8. i9_
+i6_ i7. i8b i9. iA_
+i7_ i8. i9b iA. iB_
+i8_ i9. iAb iB. iC_
+i9_ iA. iBb iC. iD_
+i0_ i1. i2b i3_ i4.
+i1_ i2. i3b i4_ i5.
+i2_ i3. i4b i5_ i6.
+i3_ i4. i5b i6_ i7.
+i4_ i5. i6b i7_ i8.
+i5_ i6. i7b i8_ i9.
+i6_ i7. i8b i9_ iA.
+i7_ i8. i9b iA_ iB.
+i8_ i9. iAb iB_ iC.
+i9_ iA. iBb iC_ iD.
+i0_ i1. i2b i3_
+i1_ i2. i3b i4_
+i2_ i3. i4b i5_
+i3_ i4. i5b i6_
+i4_ i5. i6b i7_
+i5_ i6. i7b i8_
+i6_ i7. i8b i9_
+i7_ i8. i9b iA_
+i8_ i9. iAb iB_
+i9_ iA. iBb iC_
+iA_ iB. iCb iD_
+i0- i1b
+i1- i2b
+i2- i3b
+i3- i4b
+i4- i5b
+i5- i6b
+i6- i7b
+i7- i8b
+i8- i9b
+i9- iAb
+iA- iBb
+iB- iCb
+iC- iDb
+i0b i1-
+i1b i2-
+i2b i3-
+i3b i4-
+i4b i5-
+i5b i6-
+i6b i7-
+i7b i8-
+i8b i9-
+i9b iA-
+iAb iB-
+iBb iC-
+iCb iD-
+i0- i1b i2-
+i1- i2b i3-
+i2- i3b i4-
+i3- i4b i5-
+i4- i5b i6-
+i5- i6b i7-
+i6- i7b i8-
+i7- i8b i9-
+i8- i9b iA-
+i9- iAb iB-
+iA- iBb iC-
+iB- iCb iD-
+i0- i1b i2.
+i1- i2b i3.
+i2- i3b i4.
+i3- i4b i5.
+i4- i5b i6.
+i5- i6b i7.
+i6- i7b i8.
+i7- i8b i9.
+i8- i9b iA.
+i9- iAb iB.
+iA- iBb iC.
+iB- iCb iD.
+i0. i1b i2-
+i1. i2b i3-
+i2. i3b i4-
+i3. i4b i5-
+i4. i5b i6-
+i5. i6b i7-
+i6. i7b i8-
+i7. i8b i9-
+i8. i9b iA-
+i9. iAb iB-
+iA. iBb iC-
+iB. iCb iD-
+i0c
+i1c
+i2c
+i3c
+i4c
+i5c
+i6c
+i7c
+i8c
+i9c
+iAc
+iBc
+iCc
+iDc
+i0_ i1c
+i1_ i2c
+i2_ i3c
+i3_ i4c
+i4_ i5c
+i5_ i6c
+i6_ i7c
+i7_ i8c
+i8_ i9c
+i9_ iAc
+iA_ iBc
+iB_ iCc
+iC_ iDc
+i0c i1_
+i1c i2_
+i2c i3_
+i3c i4_
+i4c i5_
+i5c i6_
+i6c i7_
+i7c i8_
+i8c i9_
+i9c iA_
+iAc iB_
+iBc iC_
+iCc iD_
+i0_ i1c i2_
+i1_ i2c i3_
+i2_ i3c i4_
+i3_ i4c i5_
+i4_ i5c i6_
+i5_ i6c i7_
+i6_ i7c i8_
+i7_ i8c i9_
+i8_ i9c iA_
+i9_ iAc iB_
+iA_ iBc iC_
+iB_ iCc iD_
+i0. i1c
+i1. i2c
+i2. i3c
+i3. i4c
+i4. i5c
+i5. i6c
+i6. i7c
+i7. i8c
+i8. i9c
+i9. iAc
+iA. iBc
+iB. iCc
+iC. iDc
+i0c i1.
+i1c i2.
+i2c i3.
+i3c i4.
+i4c i5.
+i5c i6.
+i6c i7.
+i7c i8.
+i8c i9.
+i9c iA.
+iAc iB.
+iBc iC.
+iCc iD.
+i0. i1c i2.
+i1. i2c i3.
+i2. i3c i4.
+i3. i4c i5.
+i4. i5c i6.
+i5. i6c i7.
+i6. i7c i8.
+i7. i8c i9.
+i8. i9c iA.
+i9. iAc iB.
+iA. iBc iC.
+iB. iCc iD.
+i0. i1_ i2c
+i1. i2_ i3c
+i2. i3_ i4c
+i3. i4_ i5c
+i4. i5_ i6c
+i5. i6_ i7c
+i6. i7_ i8c
+i7. i8_ i9c
+i8. i9_ iAc
+i9. iA_ iBc
+iA. iB_ iCc
+iB. iC_ iDc
+i0_ i1. i2c
+i1_ i2. i3c
+i2_ i3. i4c
+i3_ i4. i5c
+i4_ i5. i6c
+i5_ i6. i7c
+i6_ i7. i8c
+i7_ i8. i9c
+i8_ i9. iAc
+i9_ iA. iBc
+iA_ iB. iCc
+iB_ iC. iDc
+i0. i1_ i2c i3. i4_
+i1. i2_ i3c i4. i5_
+i2. i3_ i4c i5. i6_
+i3. i4_ i5c i6. i7_
+i4. i5_ i6c i7. i8_
+i5. i6_ i7c i8. i9_
+i6. i7_ i8c i9. iA_
+i7. i8_ i9c iA. iB_
+i8. i9_ iAc iB. iC_
+i9. iA_ iBc iC. iD_
+i0. i1_ i2c i3_ i4.
+i1. i2_ i3c i4_ i5.
+i2. i3_ i4c i5_ i6.
+i3. i4_ i5c i6_ i7.
+i4. i5_ i6c i7_ i8.
+i5. i6_ i7c i8_ i9.
+i6. i7_ i8c i9_ iA.
+i7. i8_ i9c iA_ iB.
+i8. i9_ iAc iB_ iC.
+i9. iA_ iBc iC_ iD.
+i0. i1_ i2c i3_
+i1. i2_ i3c i4_
+i2. i3_ i4c i5_
+i3. i4_ i5c i6_
+i4. i5_ i6c i7_
+i5. i6_ i7c i8_
+i6. i7_ i8c i9_
+i7. i8_ i9c iA_
+i8. i9_ iAc iB_
+i9. iA_ iBc iC_
+iA. iB_ iCc iD_
+i0. i1_ i2c i3.
+i1. i2_ i3c i4.
+i2. i3_ i4c i5.
+i3. i4_ i5c i6.
+i4. i5_ i6c i7.
+i5. i6_ i7c i8.
+i6. i7_ i8c i9.
+i7. i8_ i9c iA.
+i8. i9_ iAc iB.
+i9. iA_ iBc iC.
+iA. iB_ iCc iD.
+i0_ i1. i2c i3.
+i1_ i2. i3c i4.
+i2_ i3. i4c i5.
+i3_ i4. i5c i6.
+i4_ i5. i6c i7.
+i5_ i6. i7c i8.
+i6_ i7. i8c i9.
+i7_ i8. i9c iA.
+i8_ i9. iAc iB.
+i9_ iA. iBc iC.
+iA_ iB. iCc iD.
+i0_ i1. i2c i3. i4_
+i1_ i2. i3c i4. i5_
+i2_ i3. i4c i5. i6_
+i3_ i4. i5c i6. i7_
+i4_ i5. i6c i7. i8_
+i5_ i6. i7c i8. i9_
+i6_ i7. i8c i9. iA_
+i7_ i8. i9c iA. iB_
+i8_ i9. iAc iB. iC_
+i9_ iA. iBc iC. iD_
+i0_ i1. i2c i3_ i4.
+i1_ i2. i3c i4_ i5.
+i2_ i3. i4c i5_ i6.
+i3_ i4. i5c i6_ i7.
+i4_ i5. i6c i7_ i8.
+i5_ i6. i7c i8_ i9.
+i6_ i7. i8c i9_ iA.
+i7_ i8. i9c iA_ iB.
+i8_ i9. iAc iB_ iC.
+i9_ iA. iBc iC_ iD.
+i0_ i1. i2c i3_
+i1_ i2. i3c i4_
+i2_ i3. i4c i5_
+i3_ i4. i5c i6_
+i4_ i5. i6c i7_
+i5_ i6. i7c i8_
+i6_ i7. i8c i9_
+i7_ i8. i9c iA_
+i8_ i9. iAc iB_
+i9_ iA. iBc iC_
+iA_ iB. iCc iD_
+i0- i1c
+i1- i2c
+i2- i3c
+i3- i4c
+i4- i5c
+i5- i6c
+i6- i7c
+i7- i8c
+i8- i9c
+i9- iAc
+iA- iBc
+iB- iCc
+iC- iDc
+i0c i1-
+i1c i2-
+i2c i3-
+i3c i4-
+i4c i5-
+i5c i6-
+i6c i7-
+i7c i8-
+i8c i9-
+i9c iA-
+iAc iB-
+iBc iC-
+iCc iD-
+i0- i1c i2-
+i1- i2c i3-
+i2- i3c i4-
+i3- i4c i5-
+i4- i5c i6-
+i5- i6c i7-
+i6- i7c i8-
+i7- i8c i9-
+i8- i9c iA-
+i9- iAc iB-
+iA- iBc iC-
+iB- iCc iD-
+i0- i1c i2.
+i1- i2c i3.
+i2- i3c i4.
+i3- i4c i5.
+i4- i5c i6.
+i5- i6c i7.
+i6- i7c i8.
+i7- i8c i9.
+i8- i9c iA.
+i9- iAc iB.
+iA- iBc iC.
+iB- iCc iD.
+i0. i1c i2-
+i1. i2c i3-
+i2. i3c i4-
+i3. i4c i5-
+i4. i5c i6-
+i5. i6c i7-
+i6. i7c i8-
+i7. i8c i9-
+i8. i9c iA-
+i9. iAc iB-
+iA. iBc iC-
+iB. iCc iD-
+i0d
+i1d
+i2d
+i3d
+i4d
+i5d
+i6d
+i7d
+i8d
+i9d
+iAd
+iBd
+iCd
+iDd
+i0_ i1d
+i1_ i2d
+i2_ i3d
+i3_ i4d
+i4_ i5d
+i5_ i6d
+i6_ i7d
+i7_ i8d
+i8_ i9d
+i9_ iAd
+iA_ iBd
+iB_ iCd
+iC_ iDd
+i0d i1_
+i1d i2_
+i2d i3_
+i3d i4_
+i4d i5_
+i5d i6_
+i6d i7_
+i7d i8_
+i8d i9_
+i9d iA_
+iAd iB_
+iBd iC_
+iCd iD_
+i0_ i1d i2_
+i1_ i2d i3_
+i2_ i3d i4_
+i3_ i4d i5_
+i4_ i5d i6_
+i5_ i6d i7_
+i6_ i7d i8_
+i7_ i8d i9_
+i8_ i9d iA_
+i9_ iAd iB_
+iA_ iBd iC_
+iB_ iCd iD_
+i0. i1d
+i1. i2d
+i2. i3d
+i3. i4d
+i4. i5d
+i5. i6d
+i6. i7d
+i7. i8d
+i8. i9d
+i9. iAd
+iA. iBd
+iB. iCd
+iC. iDd
+i0d i1.
+i1d i2.
+i2d i3.
+i3d i4.
+i4d i5.
+i5d i6.
+i6d i7.
+i7d i8.
+i8d i9.
+i9d iA.
+iAd iB.
+iBd iC.
+iCd iD.
+i0. i1d i2.
+i1. i2d i3.
+i2. i3d i4.
+i3. i4d i5.
+i4. i5d i6.
+i5. i6d i7.
+i6. i7d i8.
+i7. i8d i9.
+i8. i9d iA.
+i9. iAd iB.
+iA. iBd iC.
+iB. iCd iD.
+i0. i1_ i2d
+i1. i2_ i3d
+i2. i3_ i4d
+i3. i4_ i5d
+i4. i5_ i6d
+i5. i6_ i7d
+i6. i7_ i8d
+i7. i8_ i9d
+i8. i9_ iAd
+i9. iA_ iBd
+iA. iB_ iCd
+iB. iC_ iDd
+i0_ i1. i2d
+i1_ i2. i3d
+i2_ i3. i4d
+i3_ i4. i5d
+i4_ i5. i6d
+i5_ i6. i7d
+i6_ i7. i8d
+i7_ i8. i9d
+i8_ i9. iAd
+i9_ iA. iBd
+iA_ iB. iCd
+iB_ iC. iDd
+i0. i1_ i2d i3. i4_
+i1. i2_ i3d i4. i5_
+i2. i3_ i4d i5. i6_
+i3. i4_ i5d i6. i7_
+i4. i5_ i6d i7. i8_
+i5. i6_ i7d i8. i9_
+i6. i7_ i8d i9. iA_
+i7. i8_ i9d iA. iB_
+i8. i9_ iAd iB. iC_
+i9. iA_ iBd iC. iD_
+i0. i1_ i2d i3_ i4.
+i1. i2_ i3d i4_ i5.
+i2. i3_ i4d i5_ i6.
+i3. i4_ i5d i6_ i7.
+i4. i5_ i6d i7_ i8.
+i5. i6_ i7d i8_ i9.
+i6. i7_ i8d i9_ iA.
+i7. i8_ i9d iA_ iB.
+i8. i9_ iAd iB_ iC.
+i9. iA_ iBd iC_ iD.
+i0. i1_ i2d i3_
+i1. i2_ i3d i4_
+i2. i3_ i4d i5_
+i3. i4_ i5d i6_
+i4. i5_ i6d i7_
+i5. i6_ i7d i8_
+i6. i7_ i8d i9_
+i7. i8_ i9d iA_
+i8. i9_ iAd iB_
+i9. iA_ iBd iC_
+iA. iB_ iCd iD_
+i0. i1_ i2d i3.
+i1. i2_ i3d i4.
+i2. i3_ i4d i5.
+i3. i4_ i5d i6.
+i4. i5_ i6d i7.
+i5. i6_ i7d i8.
+i6. i7_ i8d i9.
+i7. i8_ i9d iA.
+i8. i9_ iAd iB.
+i9. iA_ iBd iC.
+iA. iB_ iCd iD.
+i0_ i1. i2d i3.
+i1_ i2. i3d i4.
+i2_ i3. i4d i5.
+i3_ i4. i5d i6.
+i4_ i5. i6d i7.
+i5_ i6. i7d i8.
+i6_ i7. i8d i9.
+i7_ i8. i9d iA.
+i8_ i9. iAd iB.
+i9_ iA. iBd iC.
+iA_ iB. iCd iD.
+i0_ i1. i2d i3. i4_
+i1_ i2. i3d i4. i5_
+i2_ i3. i4d i5. i6_
+i3_ i4. i5d i6. i7_
+i4_ i5. i6d i7. i8_
+i5_ i6. i7d i8. i9_
+i6_ i7. i8d i9. iA_
+i7_ i8. i9d iA. iB_
+i8_ i9. iAd iB. iC_
+i9_ iA. iBd iC. iD_
+i0_ i1. i2d i3_ i4.
+i1_ i2. i3d i4_ i5.
+i2_ i3. i4d i5_ i6.
+i3_ i4. i5d i6_ i7.
+i4_ i5. i6d i7_ i8.
+i5_ i6. i7d i8_ i9.
+i6_ i7. i8d i9_ iA.
+i7_ i8. i9d iA_ iB.
+i8_ i9. iAd iB_ iC.
+i9_ iA. iBd iC_ iD.
+i0_ i1. i2d i3_
+i1_ i2. i3d i4_
+i2_ i3. i4d i5_
+i3_ i4. i5d i6_
+i4_ i5. i6d i7_
+i5_ i6. i7d i8_
+i6_ i7. i8d i9_
+i7_ i8. i9d iA_
+i8_ i9. iAd iB_
+i9_ iA. iBd iC_
+iA_ iB. iCd iD_
+i0- i1d
+i1- i2d
+i2- i3d
+i3- i4d
+i4- i5d
+i5- i6d
+i6- i7d
+i7- i8d
+i8- i9d
+i9- iAd
+iA- iBd
+iB- iCd
+iC- iDd
+i0d i1-
+i1d i2-
+i2d i3-
+i3d i4-
+i4d i5-
+i5d i6-
+i6d i7-
+i7d i8-
+i8d i9-
+i9d iA-
+iAd iB-
+iBd iC-
+iCd iD-
+i0- i1d i2-
+i1- i2d i3-
+i2- i3d i4-
+i3- i4d i5-
+i4- i5d i6-
+i5- i6d i7-
+i6- i7d i8-
+i7- i8d i9-
+i8- i9d iA-
+i9- iAd iB-
+iA- iBd iC-
+iB- iCd iD-
+i0- i1d i2.
+i1- i2d i3.
+i2- i3d i4.
+i3- i4d i5.
+i4- i5d i6.
+i5- i6d i7.
+i6- i7d i8.
+i7- i8d i9.
+i8- i9d iA.
+i9- iAd iB.
+iA- iBd iC.
+iB- iCd iD.
+i0. i1d i2-
+i1. i2d i3-
+i2. i3d i4-
+i3. i4d i5-
+i4. i5d i6-
+i5. i6d i7-
+i6. i7d i8-
+i7. i8d i9-
+i8. i9d iA-
+i9. iAd iB-
+iA. iBd iC-
+iB. iCd iD-
+i0e
+i1e
+i2e
+i3e
+i4e
+i5e
+i6e
+i7e
+i8e
+i9e
+iAe
+iBe
+iCe
+iDe
+i0_ i1e
+i1_ i2e
+i2_ i3e
+i3_ i4e
+i4_ i5e
+i5_ i6e
+i6_ i7e
+i7_ i8e
+i8_ i9e
+i9_ iAe
+iA_ iBe
+iB_ iCe
+iC_ iDe
+i0e i1_
+i1e i2_
+i2e i3_
+i3e i4_
+i4e i5_
+i5e i6_
+i6e i7_
+i7e i8_
+i8e i9_
+i9e iA_
+iAe iB_
+iBe iC_
+iCe iD_
+i0_ i1e i2_
+i1_ i2e i3_
+i2_ i3e i4_
+i3_ i4e i5_
+i4_ i5e i6_
+i5_ i6e i7_
+i6_ i7e i8_
+i7_ i8e i9_
+i8_ i9e iA_
+i9_ iAe iB_
+iA_ iBe iC_
+iB_ iCe iD_
+i0. i1e
+i1. i2e
+i2. i3e
+i3. i4e
+i4. i5e
+i5. i6e
+i6. i7e
+i7. i8e
+i8. i9e
+i9. iAe
+iA. iBe
+iB. iCe
+iC. iDe
+i0e i1.
+i1e i2.
+i2e i3.
+i3e i4.
+i4e i5.
+i5e i6.
+i6e i7.
+i7e i8.
+i8e i9.
+i9e iA.
+iAe iB.
+iBe iC.
+iCe iD.
+i0. i1e i2.
+i1. i2e i3.
+i2. i3e i4.
+i3. i4e i5.
+i4. i5e i6.
+i5. i6e i7.
+i6. i7e i8.
+i7. i8e i9.
+i8. i9e iA.
+i9. iAe iB.
+iA. iBe iC.
+iB. iCe iD.
+i0. i1_ i2e
+i1. i2_ i3e
+i2. i3_ i4e
+i3. i4_ i5e
+i4. i5_ i6e
+i5. i6_ i7e
+i6. i7_ i8e
+i7. i8_ i9e
+i8. i9_ iAe
+i9. iA_ iBe
+iA. iB_ iCe
+iB. iC_ iDe
+i0_ i1. i2e
+i1_ i2. i3e
+i2_ i3. i4e
+i3_ i4. i5e
+i4_ i5. i6e
+i5_ i6. i7e
+i6_ i7. i8e
+i7_ i8. i9e
+i8_ i9. iAe
+i9_ iA. iBe
+iA_ iB. iCe
+iB_ iC. iDe
+i0. i1_ i2e i3. i4_
+i1. i2_ i3e i4. i5_
+i2. i3_ i4e i5. i6_
+i3. i4_ i5e i6. i7_
+i4. i5_ i6e i7. i8_
+i5. i6_ i7e i8. i9_
+i6. i7_ i8e i9. iA_
+i7. i8_ i9e iA. iB_
+i8. i9_ iAe iB. iC_
+i9. iA_ iBe iC. iD_
+i0. i1_ i2e i3_ i4.
+i1. i2_ i3e i4_ i5.
+i2. i3_ i4e i5_ i6.
+i3. i4_ i5e i6_ i7.
+i4. i5_ i6e i7_ i8.
+i5. i6_ i7e i8_ i9.
+i6. i7_ i8e i9_ iA.
+i7. i8_ i9e iA_ iB.
+i8. i9_ iAe iB_ iC.
+i9. iA_ iBe iC_ iD.
+i0. i1_ i2e i3_
+i1. i2_ i3e i4_
+i2. i3_ i4e i5_
+i3. i4_ i5e i6_
+i4. i5_ i6e i7_
+i5. i6_ i7e i8_
+i6. i7_ i8e i9_
+i7. i8_ i9e iA_
+i8. i9_ iAe iB_
+i9. iA_ iBe iC_
+iA. iB_ iCe iD_
+i0. i1_ i2e i3.
+i1. i2_ i3e i4.
+i2. i3_ i4e i5.
+i3. i4_ i5e i6.
+i4. i5_ i6e i7.
+i5. i6_ i7e i8.
+i6. i7_ i8e i9.
+i7. i8_ i9e iA.
+i8. i9_ iAe iB.
+i9. iA_ iBe iC.
+iA. iB_ iCe iD.
+i0_ i1. i2e i3.
+i1_ i2. i3e i4.
+i2_ i3. i4e i5.
+i3_ i4. i5e i6.
+i4_ i5. i6e i7.
+i5_ i6. i7e i8.
+i6_ i7. i8e i9.
+i7_ i8. i9e iA.
+i8_ i9. iAe iB.
+i9_ iA. iBe iC.
+iA_ iB. iCe iD.
+i0_ i1. i2e i3. i4_
+i1_ i2. i3e i4. i5_
+i2_ i3. i4e i5. i6_
+i3_ i4. i5e i6. i7_
+i4_ i5. i6e i7. i8_
+i5_ i6. i7e i8. i9_
+i6_ i7. i8e i9. iA_
+i7_ i8. i9e iA. iB_
+i8_ i9. iAe iB. iC_
+i9_ iA. iBe iC. iD_
+i0_ i1. i2e i3_ i4.
+i1_ i2. i3e i4_ i5.
+i2_ i3. i4e i5_ i6.
+i3_ i4. i5e i6_ i7.
+i4_ i5. i6e i7_ i8.
+i5_ i6. i7e i8_ i9.
+i6_ i7. i8e i9_ iA.
+i7_ i8. i9e iA_ iB.
+i8_ i9. iAe iB_ iC.
+i9_ iA. iBe iC_ iD.
+i0_ i1. i2e i3_
+i1_ i2. i3e i4_
+i2_ i3. i4e i5_
+i3_ i4. i5e i6_
+i4_ i5. i6e i7_
+i5_ i6. i7e i8_
+i6_ i7. i8e i9_
+i7_ i8. i9e iA_
+i8_ i9. iAe iB_
+i9_ iA. iBe iC_
+iA_ iB. iCe iD_
+i0- i1e
+i1- i2e
+i2- i3e
+i3- i4e
+i4- i5e
+i5- i6e
+i6- i7e
+i7- i8e
+i8- i9e
+i9- iAe
+iA- iBe
+iB- iCe
+iC- iDe
+i0e i1-
+i1e i2-
+i2e i3-
+i3e i4-
+i4e i5-
+i5e i6-
+i6e i7-
+i7e i8-
+i8e i9-
+i9e iA-
+iAe iB-
+iBe iC-
+iCe iD-
+i0- i1e i2-
+i1- i2e i3-
+i2- i3e i4-
+i3- i4e i5-
+i4- i5e i6-
+i5- i6e i7-
+i6- i7e i8-
+i7- i8e i9-
+i8- i9e iA-
+i9- iAe iB-
+iA- iBe iC-
+iB- iCe iD-
+i0- i1e i2.
+i1- i2e i3.
+i2- i3e i4.
+i3- i4e i5.
+i4- i5e i6.
+i5- i6e i7.
+i6- i7e i8.
+i7- i8e i9.
+i8- i9e iA.
+i9- iAe iB.
+iA- iBe iC.
+iB- iCe iD.
+i0. i1e i2-
+i1. i2e i3-
+i2. i3e i4-
+i3. i4e i5-
+i4. i5e i6-
+i5. i6e i7-
+i6. i7e i8-
+i7. i8e i9-
+i8. i9e iA-
+i9. iAe iB-
+iA. iBe iC-
+iB. iCe iD-
+i0f
+i1f
+i2f
+i3f
+i4f
+i5f
+i6f
+i7f
+i8f
+i9f
+iAf
+iBf
+iCf
+iDf
+i0_ i1f
+i1_ i2f
+i2_ i3f
+i3_ i4f
+i4_ i5f
+i5_ i6f
+i6_ i7f
+i7_ i8f
+i8_ i9f
+i9_ iAf
+iA_ iBf
+iB_ iCf
+iC_ iDf
+i0f i1_
+i1f i2_
+i2f i3_
+i3f i4_
+i4f i5_
+i5f i6_
+i6f i7_
+i7f i8_
+i8f i9_
+i9f iA_
+iAf iB_
+iBf iC_
+iCf iD_
+i0_ i1f i2_
+i1_ i2f i3_
+i2_ i3f i4_
+i3_ i4f i5_
+i4_ i5f i6_
+i5_ i6f i7_
+i6_ i7f i8_
+i7_ i8f i9_
+i8_ i9f iA_
+i9_ iAf iB_
+iA_ iBf iC_
+iB_ iCf iD_
+i0. i1f
+i1. i2f
+i2. i3f
+i3. i4f
+i4. i5f
+i5. i6f
+i6. i7f
+i7. i8f
+i8. i9f
+i9. iAf
+iA. iBf
+iB. iCf
+iC. iDf
+i0f i1.
+i1f i2.
+i2f i3.
+i3f i4.
+i4f i5.
+i5f i6.
+i6f i7.
+i7f i8.
+i8f i9.
+i9f iA.
+iAf iB.
+iBf iC.
+iCf iD.
+i0. i1f i2.
+i1. i2f i3.
+i2. i3f i4.
+i3. i4f i5.
+i4. i5f i6.
+i5. i6f i7.
+i6. i7f i8.
+i7. i8f i9.
+i8. i9f iA.
+i9. iAf iB.
+iA. iBf iC.
+iB. iCf iD.
+i0. i1_ i2f
+i1. i2_ i3f
+i2. i3_ i4f
+i3. i4_ i5f
+i4. i5_ i6f
+i5. i6_ i7f
+i6. i7_ i8f
+i7. i8_ i9f
+i8. i9_ iAf
+i9. iA_ iBf
+iA. iB_ iCf
+iB. iC_ iDf
+i0_ i1. i2f
+i1_ i2. i3f
+i2_ i3. i4f
+i3_ i4. i5f
+i4_ i5. i6f
+i5_ i6. i7f
+i6_ i7. i8f
+i7_ i8. i9f
+i8_ i9. iAf
+i9_ iA. iBf
+iA_ iB. iCf
+iB_ iC. iDf
+i0. i1_ i2f i3. i4_
+i1. i2_ i3f i4. i5_
+i2. i3_ i4f i5. i6_
+i3. i4_ i5f i6. i7_
+i4. i5_ i6f i7. i8_
+i5. i6_ i7f i8. i9_
+i6. i7_ i8f i9. iA_
+i7. i8_ i9f iA. iB_
+i8. i9_ iAf iB. iC_
+i9. iA_ iBf iC. iD_
+i0. i1_ i2f i3_ i4.
+i1. i2_ i3f i4_ i5.
+i2. i3_ i4f i5_ i6.
+i3. i4_ i5f i6_ i7.
+i4. i5_ i6f i7_ i8.
+i5. i6_ i7f i8_ i9.
+i6. i7_ i8f i9_ iA.
+i7. i8_ i9f iA_ iB.
+i8. i9_ iAf iB_ iC.
+i9. iA_ iBf iC_ iD.
+i0. i1_ i2f i3_
+i1. i2_ i3f i4_
+i2. i3_ i4f i5_
+i3. i4_ i5f i6_
+i4. i5_ i6f i7_
+i5. i6_ i7f i8_
+i6. i7_ i8f i9_
+i7. i8_ i9f iA_
+i8. i9_ iAf iB_
+i9. iA_ iBf iC_
+iA. iB_ iCf iD_
+i0. i1_ i2f i3.
+i1. i2_ i3f i4.
+i2. i3_ i4f i5.
+i3. i4_ i5f i6.
+i4. i5_ i6f i7.
+i5. i6_ i7f i8.
+i6. i7_ i8f i9.
+i7. i8_ i9f iA.
+i8. i9_ iAf iB.
+i9. iA_ iBf iC.
+iA. iB_ iCf iD.
+i0_ i1. i2f i3.
+i1_ i2. i3f i4.
+i2_ i3. i4f i5.
+i3_ i4. i5f i6.
+i4_ i5. i6f i7.
+i5_ i6. i7f i8.
+i6_ i7. i8f i9.
+i7_ i8. i9f iA.
+i8_ i9. iAf iB.
+i9_ iA. iBf iC.
+iA_ iB. iCf iD.
+i0_ i1. i2f i3. i4_
+i1_ i2. i3f i4. i5_
+i2_ i3. i4f i5. i6_
+i3_ i4. i5f i6. i7_
+i4_ i5. i6f i7. i8_
+i5_ i6. i7f i8. i9_
+i6_ i7. i8f i9. iA_
+i7_ i8. i9f iA. iB_
+i8_ i9. iAf iB. iC_
+i9_ iA. iBf iC. iD_
+i0_ i1. i2f i3_ i4.
+i1_ i2. i3f i4_ i5.
+i2_ i3. i4f i5_ i6.
+i3_ i4. i5f i6_ i7.
+i4_ i5. i6f i7_ i8.
+i5_ i6. i7f i8_ i9.
+i6_ i7. i8f i9_ iA.
+i7_ i8. i9f iA_ iB.
+i8_ i9. iAf iB_ iC.
+i9_ iA. iBf iC_ iD.
+i0_ i1. i2f i3_
+i1_ i2. i3f i4_
+i2_ i3. i4f i5_
+i3_ i4. i5f i6_
+i4_ i5. i6f i7_
+i5_ i6. i7f i8_
+i6_ i7. i8f i9_
+i7_ i8. i9f iA_
+i8_ i9. iAf iB_
+i9_ iA. iBf iC_
+iA_ iB. iCf iD_
+i0- i1f
+i1- i2f
+i2- i3f
+i3- i4f
+i4- i5f
+i5- i6f
+i6- i7f
+i7- i8f
+i8- i9f
+i9- iAf
+iA- iBf
+iB- iCf
+iC- iDf
+i0f i1-
+i1f i2-
+i2f i3-
+i3f i4-
+i4f i5-
+i5f i6-
+i6f i7-
+i7f i8-
+i8f i9-
+i9f iA-
+iAf iB-
+iBf iC-
+iCf iD-
+i0- i1f i2-
+i1- i2f i3-
+i2- i3f i4-
+i3- i4f i5-
+i4- i5f i6-
+i5- i6f i7-
+i6- i7f i8-
+i7- i8f i9-
+i8- i9f iA-
+i9- iAf iB-
+iA- iBf iC-
+iB- iCf iD-
+i0- i1f i2.
+i1- i2f i3.
+i2- i3f i4.
+i3- i4f i5.
+i4- i5f i6.
+i5- i6f i7.
+i6- i7f i8.
+i7- i8f i9.
+i8- i9f iA.
+i9- iAf iB.
+iA- iBf iC.
+iB- iCf iD.
+i0. i1f i2-
+i1. i2f i3-
+i2. i3f i4-
+i3. i4f i5-
+i4. i5f i6-
+i5. i6f i7-
+i6. i7f i8-
+i7. i8f i9-
+i8. i9f iA-
+i9. iAf iB-
+iA. iBf iC-
+iB. iCf iD-
+i0g
+i1g
+i2g
+i3g
+i4g
+i5g
+i6g
+i7g
+i8g
+i9g
+iAg
+iBg
+iCg
+iDg
+i0_ i1g
+i1_ i2g
+i2_ i3g
+i3_ i4g
+i4_ i5g
+i5_ i6g
+i6_ i7g
+i7_ i8g
+i8_ i9g
+i9_ iAg
+iA_ iBg
+iB_ iCg
+iC_ iDg
+i0g i1_
+i1g i2_
+i2g i3_
+i3g i4_
+i4g i5_
+i5g i6_
+i6g i7_
+i7g i8_
+i8g i9_
+i9g iA_
+iAg iB_
+iBg iC_
+iCg iD_
+i0_ i1g i2_
+i1_ i2g i3_
+i2_ i3g i4_
+i3_ i4g i5_
+i4_ i5g i6_
+i5_ i6g i7_
+i6_ i7g i8_
+i7_ i8g i9_
+i8_ i9g iA_
+i9_ iAg iB_
+iA_ iBg iC_
+iB_ iCg iD_
+i0. i1g
+i1. i2g
+i2. i3g
+i3. i4g
+i4. i5g
+i5. i6g
+i6. i7g
+i7. i8g
+i8. i9g
+i9. iAg
+iA. iBg
+iB. iCg
+iC. iDg
+i0g i1.
+i1g i2.
+i2g i3.
+i3g i4.
+i4g i5.
+i5g i6.
+i6g i7.
+i7g i8.
+i8g i9.
+i9g iA.
+iAg iB.
+iBg iC.
+iCg iD.
+i0. i1g i2.
+i1. i2g i3.
+i2. i3g i4.
+i3. i4g i5.
+i4. i5g i6.
+i5. i6g i7.
+i6. i7g i8.
+i7. i8g i9.
+i8. i9g iA.
+i9. iAg iB.
+iA. iBg iC.
+iB. iCg iD.
+i0. i1_ i2g
+i1. i2_ i3g
+i2. i3_ i4g
+i3. i4_ i5g
+i4. i5_ i6g
+i5. i6_ i7g
+i6. i7_ i8g
+i7. i8_ i9g
+i8. i9_ iAg
+i9. iA_ iBg
+iA. iB_ iCg
+iB. iC_ iDg
+i0_ i1. i2g
+i1_ i2. i3g
+i2_ i3. i4g
+i3_ i4. i5g
+i4_ i5. i6g
+i5_ i6. i7g
+i6_ i7. i8g
+i7_ i8. i9g
+i8_ i9. iAg
+i9_ iA. iBg
+iA_ iB. iCg
+iB_ iC. iDg
+i0. i1_ i2g i3. i4_
+i1. i2_ i3g i4. i5_
+i2. i3_ i4g i5. i6_
+i3. i4_ i5g i6. i7_
+i4. i5_ i6g i7. i8_
+i5. i6_ i7g i8. i9_
+i6. i7_ i8g i9. iA_
+i7. i8_ i9g iA. iB_
+i8. i9_ iAg iB. iC_
+i9. iA_ iBg iC. iD_
+i0. i1_ i2g i3_ i4.
+i1. i2_ i3g i4_ i5.
+i2. i3_ i4g i5_ i6.
+i3. i4_ i5g i6_ i7.
+i4. i5_ i6g i7_ i8.
+i5. i6_ i7g i8_ i9.
+i6. i7_ i8g i9_ iA.
+i7. i8_ i9g iA_ iB.
+i8. i9_ iAg iB_ iC.
+i9. iA_ iBg iC_ iD.
+i0. i1_ i2g i3_
+i1. i2_ i3g i4_
+i2. i3_ i4g i5_
+i3. i4_ i5g i6_
+i4. i5_ i6g i7_
+i5. i6_ i7g i8_
+i6. i7_ i8g i9_
+i7. i8_ i9g iA_
+i8. i9_ iAg iB_
+i9. iA_ iBg iC_
+iA. iB_ iCg iD_
+i0. i1_ i2g i3.
+i1. i2_ i3g i4.
+i2. i3_ i4g i5.
+i3. i4_ i5g i6.
+i4. i5_ i6g i7.
+i5. i6_ i7g i8.
+i6. i7_ i8g i9.
+i7. i8_ i9g iA.
+i8. i9_ iAg iB.
+i9. iA_ iBg iC.
+iA. iB_ iCg iD.
+i0_ i1. i2g i3.
+i1_ i2. i3g i4.
+i2_ i3. i4g i5.
+i3_ i4. i5g i6.
+i4_ i5. i6g i7.
+i5_ i6. i7g i8.
+i6_ i7. i8g i9.
+i7_ i8. i9g iA.
+i8_ i9. iAg iB.
+i9_ iA. iBg iC.
+iA_ iB. iCg iD.
+i0_ i1. i2g i3. i4_
+i1_ i2. i3g i4. i5_
+i2_ i3. i4g i5. i6_
+i3_ i4. i5g i6. i7_
+i4_ i5. i6g i7. i8_
+i5_ i6. i7g i8. i9_
+i6_ i7. i8g i9. iA_
+i7_ i8. i9g iA. iB_
+i8_ i9. iAg iB. iC_
+i9_ iA. iBg iC. iD_
+i0_ i1. i2g i3_ i4.
+i1_ i2. i3g i4_ i5.
+i2_ i3. i4g i5_ i6.
+i3_ i4. i5g i6_ i7.
+i4_ i5. i6g i7_ i8.
+i5_ i6. i7g i8_ i9.
+i6_ i7. i8g i9_ iA.
+i7_ i8. i9g iA_ iB.
+i8_ i9. iAg iB_ iC.
+i9_ iA. iBg iC_ iD.
+i0_ i1. i2g i3_
+i1_ i2. i3g i4_
+i2_ i3. i4g i5_
+i3_ i4. i5g i6_
+i4_ i5. i6g i7_
+i5_ i6. i7g i8_
+i6_ i7. i8g i9_
+i7_ i8. i9g iA_
+i8_ i9. iAg iB_
+i9_ iA. iBg iC_
+iA_ iB. iCg iD_
+i0- i1g
+i1- i2g
+i2- i3g
+i3- i4g
+i4- i5g
+i5- i6g
+i6- i7g
+i7- i8g
+i8- i9g
+i9- iAg
+iA- iBg
+iB- iCg
+iC- iDg
+i0g i1-
+i1g i2-
+i2g i3-
+i3g i4-
+i4g i5-
+i5g i6-
+i6g i7-
+i7g i8-
+i8g i9-
+i9g iA-
+iAg iB-
+iBg iC-
+iCg iD-
+i0- i1g i2-
+i1- i2g i3-
+i2- i3g i4-
+i3- i4g i5-
+i4- i5g i6-
+i5- i6g i7-
+i6- i7g i8-
+i7- i8g i9-
+i8- i9g iA-
+i9- iAg iB-
+iA- iBg iC-
+iB- iCg iD-
+i0- i1g i2.
+i1- i2g i3.
+i2- i3g i4.
+i3- i4g i5.
+i4- i5g i6.
+i5- i6g i7.
+i6- i7g i8.
+i7- i8g i9.
+i8- i9g iA.
+i9- iAg iB.
+iA- iBg iC.
+iB- iCg iD.
+i0. i1g i2-
+i1. i2g i3-
+i2. i3g i4-
+i3. i4g i5-
+i4. i5g i6-
+i5. i6g i7-
+i6. i7g i8-
+i7. i8g i9-
+i8. i9g iA-
+i9. iAg iB-
+iA. iBg iC-
+iB. iCg iD-
+i0h
+i1h
+i2h
+i3h
+i4h
+i5h
+i6h
+i7h
+i8h
+i9h
+iAh
+iBh
+iCh
+iDh
+i0_ i1h
+i1_ i2h
+i2_ i3h
+i3_ i4h
+i4_ i5h
+i5_ i6h
+i6_ i7h
+i7_ i8h
+i8_ i9h
+i9_ iAh
+iA_ iBh
+iB_ iCh
+iC_ iDh
+i0h i1_
+i1h i2_
+i2h i3_
+i3h i4_
+i4h i5_
+i5h i6_
+i6h i7_
+i7h i8_
+i8h i9_
+i9h iA_
+iAh iB_
+iBh iC_
+iCh iD_
+i0_ i1h i2_
+i1_ i2h i3_
+i2_ i3h i4_
+i3_ i4h i5_
+i4_ i5h i6_
+i5_ i6h i7_
+i6_ i7h i8_
+i7_ i8h i9_
+i8_ i9h iA_
+i9_ iAh iB_
+iA_ iBh iC_
+iB_ iCh iD_
+i0. i1h
+i1. i2h
+i2. i3h
+i3. i4h
+i4. i5h
+i5. i6h
+i6. i7h
+i7. i8h
+i8. i9h
+i9. iAh
+iA. iBh
+iB. iCh
+iC. iDh
+i0h i1.
+i1h i2.
+i2h i3.
+i3h i4.
+i4h i5.
+i5h i6.
+i6h i7.
+i7h i8.
+i8h i9.
+i9h iA.
+iAh iB.
+iBh iC.
+iCh iD.
+i0. i1h i2.
+i1. i2h i3.
+i2. i3h i4.
+i3. i4h i5.
+i4. i5h i6.
+i5. i6h i7.
+i6. i7h i8.
+i7. i8h i9.
+i8. i9h iA.
+i9. iAh iB.
+iA. iBh iC.
+iB. iCh iD.
+i0. i1_ i2h
+i1. i2_ i3h
+i2. i3_ i4h
+i3. i4_ i5h
+i4. i5_ i6h
+i5. i6_ i7h
+i6. i7_ i8h
+i7. i8_ i9h
+i8. i9_ iAh
+i9. iA_ iBh
+iA. iB_ iCh
+iB. iC_ iDh
+i0_ i1. i2h
+i1_ i2. i3h
+i2_ i3. i4h
+i3_ i4. i5h
+i4_ i5. i6h
+i5_ i6. i7h
+i6_ i7. i8h
+i7_ i8. i9h
+i8_ i9. iAh
+i9_ iA. iBh
+iA_ iB. iCh
+iB_ iC. iDh
+i0. i1_ i2h i3. i4_
+i1. i2_ i3h i4. i5_
+i2. i3_ i4h i5. i6_
+i3. i4_ i5h i6. i7_
+i4. i5_ i6h i7. i8_
+i5. i6_ i7h i8. i9_
+i6. i7_ i8h i9. iA_
+i7. i8_ i9h iA. iB_
+i8. i9_ iAh iB. iC_
+i9. iA_ iBh iC. iD_
+i0. i1_ i2h i3_ i4.
+i1. i2_ i3h i4_ i5.
+i2. i3_ i4h i5_ i6.
+i3. i4_ i5h i6_ i7.
+i4. i5_ i6h i7_ i8.
+i5. i6_ i7h i8_ i9.
+i6. i7_ i8h i9_ iA.
+i7. i8_ i9h iA_ iB.
+i8. i9_ iAh iB_ iC.
+i9. iA_ iBh iC_ iD.
+i0. i1_ i2h i3_
+i1. i2_ i3h i4_
+i2. i3_ i4h i5_
+i3. i4_ i5h i6_
+i4. i5_ i6h i7_
+i5. i6_ i7h i8_
+i6. i7_ i8h i9_
+i7. i8_ i9h iA_
+i8. i9_ iAh iB_
+i9. iA_ iBh iC_
+iA. iB_ iCh iD_
+i0. i1_ i2h i3.
+i1. i2_ i3h i4.
+i2. i3_ i4h i5.
+i3. i4_ i5h i6.
+i4. i5_ i6h i7.
+i5. i6_ i7h i8.
+i6. i7_ i8h i9.
+i7. i8_ i9h iA.
+i8. i9_ iAh iB.
+i9. iA_ iBh iC.
+iA. iB_ iCh iD.
+i0_ i1. i2h i3.
+i1_ i2. i3h i4.
+i2_ i3. i4h i5.
+i3_ i4. i5h i6.
+i4_ i5. i6h i7.
+i5_ i6. i7h i8.
+i6_ i7. i8h i9.
+i7_ i8. i9h iA.
+i8_ i9. iAh iB.
+i9_ iA. iBh iC.
+iA_ iB. iCh iD.
+i0_ i1. i2h i3. i4_
+i1_ i2. i3h i4. i5_
+i2_ i3. i4h i5. i6_
+i3_ i4. i5h i6. i7_
+i4_ i5. i6h i7. i8_
+i5_ i6. i7h i8. i9_
+i6_ i7. i8h i9. iA_
+i7_ i8. i9h iA. iB_
+i8_ i9. iAh iB. iC_
+i9_ iA. iBh iC. iD_
+i0_ i1. i2h i3_ i4.
+i1_ i2. i3h i4_ i5.
+i2_ i3. i4h i5_ i6.
+i3_ i4. i5h i6_ i7.
+i4_ i5. i6h i7_ i8.
+i5_ i6. i7h i8_ i9.
+i6_ i7. i8h i9_ iA.
+i7_ i8. i9h iA_ iB.
+i8_ i9. iAh iB_ iC.
+i9_ iA. iBh iC_ iD.
+i0_ i1. i2h i3_
+i1_ i2. i3h i4_
+i2_ i3. i4h i5_
+i3_ i4. i5h i6_
+i4_ i5. i6h i7_
+i5_ i6. i7h i8_
+i6_ i7. i8h i9_
+i7_ i8. i9h iA_
+i8_ i9. iAh iB_
+i9_ iA. iBh iC_
+iA_ iB. iCh iD_
+i0- i1h
+i1- i2h
+i2- i3h
+i3- i4h
+i4- i5h
+i5- i6h
+i6- i7h
+i7- i8h
+i8- i9h
+i9- iAh
+iA- iBh
+iB- iCh
+iC- iDh
+i0h i1-
+i1h i2-
+i2h i3-
+i3h i4-
+i4h i5-
+i5h i6-
+i6h i7-
+i7h i8-
+i8h i9-
+i9h iA-
+iAh iB-
+iBh iC-
+iCh iD-
+i0- i1h i2-
+i1- i2h i3-
+i2- i3h i4-
+i3- i4h i5-
+i4- i5h i6-
+i5- i6h i7-
+i6- i7h i8-
+i7- i8h i9-
+i8- i9h iA-
+i9- iAh iB-
+iA- iBh iC-
+iB- iCh iD-
+i0- i1h i2.
+i1- i2h i3.
+i2- i3h i4.
+i3- i4h i5.
+i4- i5h i6.
+i5- i6h i7.
+i6- i7h i8.
+i7- i8h i9.
+i8- i9h iA.
+i9- iAh iB.
+iA- iBh iC.
+iB- iCh iD.
+i0. i1h i2-
+i1. i2h i3-
+i2. i3h i4-
+i3. i4h i5-
+i4. i5h i6-
+i5. i6h i7-
+i6. i7h i8-
+i7. i8h i9-
+i8. i9h iA-
+i9. iAh iB-
+iA. iBh iC-
+iB. iCh iD-
+i0i
+i1i
+i2i
+i3i
+i4i
+i5i
+i6i
+i7i
+i8i
+i9i
+iAi
+iBi
+iCi
+iDi
+i0_ i1i
+i1_ i2i
+i2_ i3i
+i3_ i4i
+i4_ i5i
+i5_ i6i
+i6_ i7i
+i7_ i8i
+i8_ i9i
+i9_ iAi
+iA_ iBi
+iB_ iCi
+iC_ iDi
+i0i i1_
+i1i i2_
+i2i i3_
+i3i i4_
+i4i i5_
+i5i i6_
+i6i i7_
+i7i i8_
+i8i i9_
+i9i iA_
+iAi iB_
+iBi iC_
+iCi iD_
+i0_ i1i i2_
+i1_ i2i i3_
+i2_ i3i i4_
+i3_ i4i i5_
+i4_ i5i i6_
+i5_ i6i i7_
+i6_ i7i i8_
+i7_ i8i i9_
+i8_ i9i iA_
+i9_ iAi iB_
+iA_ iBi iC_
+iB_ iCi iD_
+i0. i1i
+i1. i2i
+i2. i3i
+i3. i4i
+i4. i5i
+i5. i6i
+i6. i7i
+i7. i8i
+i8. i9i
+i9. iAi
+iA. iBi
+iB. iCi
+iC. iDi
+i0i i1.
+i1i i2.
+i2i i3.
+i3i i4.
+i4i i5.
+i5i i6.
+i6i i7.
+i7i i8.
+i8i i9.
+i9i iA.
+iAi iB.
+iBi iC.
+iCi iD.
+i0. i1i i2.
+i1. i2i i3.
+i2. i3i i4.
+i3. i4i i5.
+i4. i5i i6.
+i5. i6i i7.
+i6. i7i i8.
+i7. i8i i9.
+i8. i9i iA.
+i9. iAi iB.
+iA. iBi iC.
+iB. iCi iD.
+i0. i1_ i2i
+i1. i2_ i3i
+i2. i3_ i4i
+i3. i4_ i5i
+i4. i5_ i6i
+i5. i6_ i7i
+i6. i7_ i8i
+i7. i8_ i9i
+i8. i9_ iAi
+i9. iA_ iBi
+iA. iB_ iCi
+iB. iC_ iDi
+i0_ i1. i2i
+i1_ i2. i3i
+i2_ i3. i4i
+i3_ i4. i5i
+i4_ i5. i6i
+i5_ i6. i7i
+i6_ i7. i8i
+i7_ i8. i9i
+i8_ i9. iAi
+i9_ iA. iBi
+iA_ iB. iCi
+iB_ iC. iDi
+i0. i1_ i2i i3. i4_
+i1. i2_ i3i i4. i5_
+i2. i3_ i4i i5. i6_
+i3. i4_ i5i i6. i7_
+i4. i5_ i6i i7. i8_
+i5. i6_ i7i i8. i9_
+i6. i7_ i8i i9. iA_
+i7. i8_ i9i iA. iB_
+i8. i9_ iAi iB. iC_
+i9. iA_ iBi iC. iD_
+i0. i1_ i2i i3_ i4.
+i1. i2_ i3i i4_ i5.
+i2. i3_ i4i i5_ i6.
+i3. i4_ i5i i6_ i7.
+i4. i5_ i6i i7_ i8.
+i5. i6_ i7i i8_ i9.
+i6. i7_ i8i i9_ iA.
+i7. i8_ i9i iA_ iB.
+i8. i9_ iAi iB_ iC.
+i9. iA_ iBi iC_ iD.
+i0. i1_ i2i i3_
+i1. i2_ i3i i4_
+i2. i3_ i4i i5_
+i3. i4_ i5i i6_
+i4. i5_ i6i i7_
+i5. i6_ i7i i8_
+i6. i7_ i8i i9_
+i7. i8_ i9i iA_
+i8. i9_ iAi iB_
+i9. iA_ iBi iC_
+iA. iB_ iCi iD_
+i0. i1_ i2i i3.
+i1. i2_ i3i i4.
+i2. i3_ i4i i5.
+i3. i4_ i5i i6.
+i4. i5_ i6i i7.
+i5. i6_ i7i i8.
+i6. i7_ i8i i9.
+i7. i8_ i9i iA.
+i8. i9_ iAi iB.
+i9. iA_ iBi iC.
+iA. iB_ iCi iD.
+i0_ i1. i2i i3.
+i1_ i2. i3i i4.
+i2_ i3. i4i i5.
+i3_ i4. i5i i6.
+i4_ i5. i6i i7.
+i5_ i6. i7i i8.
+i6_ i7. i8i i9.
+i7_ i8. i9i iA.
+i8_ i9. iAi iB.
+i9_ iA. iBi iC.
+iA_ iB. iCi iD.
+i0_ i1. i2i i3. i4_
+i1_ i2. i3i i4. i5_
+i2_ i3. i4i i5. i6_
+i3_ i4. i5i i6. i7_
+i4_ i5. i6i i7. i8_
+i5_ i6. i7i i8. i9_
+i6_ i7. i8i i9. iA_
+i7_ i8. i9i iA. iB_
+i8_ i9. iAi iB. iC_
+i9_ iA. iBi iC. iD_
+i0_ i1. i2i i3_ i4.
+i1_ i2. i3i i4_ i5.
+i2_ i3. i4i i5_ i6.
+i3_ i4. i5i i6_ i7.
+i4_ i5. i6i i7_ i8.
+i5_ i6. i7i i8_ i9.
+i6_ i7. i8i i9_ iA.
+i7_ i8. i9i iA_ iB.
+i8_ i9. iAi iB_ iC.
+i9_ iA. iBi iC_ iD.
+i0_ i1. i2i i3_
+i1_ i2. i3i i4_
+i2_ i3. i4i i5_
+i3_ i4. i5i i6_
+i4_ i5. i6i i7_
+i5_ i6. i7i i8_
+i6_ i7. i8i i9_
+i7_ i8. i9i iA_
+i8_ i9. iAi iB_
+i9_ iA. iBi iC_
+iA_ iB. iCi iD_
+i0- i1i
+i1- i2i
+i2- i3i
+i3- i4i
+i4- i5i
+i5- i6i
+i6- i7i
+i7- i8i
+i8- i9i
+i9- iAi
+iA- iBi
+iB- iCi
+iC- iDi
+i0i i1-
+i1i i2-
+i2i i3-
+i3i i4-
+i4i i5-
+i5i i6-
+i6i i7-
+i7i i8-
+i8i i9-
+i9i iA-
+iAi iB-
+iBi iC-
+iCi iD-
+i0- i1i i2-
+i1- i2i i3-
+i2- i3i i4-
+i3- i4i i5-
+i4- i5i i6-
+i5- i6i i7-
+i6- i7i i8-
+i7- i8i i9-
+i8- i9i iA-
+i9- iAi iB-
+iA- iBi iC-
+iB- iCi iD-
+i0- i1i i2.
+i1- i2i i3.
+i2- i3i i4.
+i3- i4i i5.
+i4- i5i i6.
+i5- i6i i7.
+i6- i7i i8.
+i7- i8i i9.
+i8- i9i iA.
+i9- iAi iB.
+iA- iBi iC.
+iB- iCi iD.
+i0. i1i i2-
+i1. i2i i3-
+i2. i3i i4-
+i3. i4i i5-
+i4. i5i i6-
+i5. i6i i7-
+i6. i7i i8-
+i7. i8i i9-
+i8. i9i iA-
+i9. iAi iB-
+iA. iBi iC-
+iB. iCi iD-
+i0j
+i1j
+i2j
+i3j
+i4j
+i5j
+i6j
+i7j
+i8j
+i9j
+iAj
+iBj
+iCj
+iDj
+i0_ i1j
+i1_ i2j
+i2_ i3j
+i3_ i4j
+i4_ i5j
+i5_ i6j
+i6_ i7j
+i7_ i8j
+i8_ i9j
+i9_ iAj
+iA_ iBj
+iB_ iCj
+iC_ iDj
+i0j i1_
+i1j i2_
+i2j i3_
+i3j i4_
+i4j i5_
+i5j i6_
+i6j i7_
+i7j i8_
+i8j i9_
+i9j iA_
+iAj iB_
+iBj iC_
+iCj iD_
+i0_ i1j i2_
+i1_ i2j i3_
+i2_ i3j i4_
+i3_ i4j i5_
+i4_ i5j i6_
+i5_ i6j i7_
+i6_ i7j i8_
+i7_ i8j i9_
+i8_ i9j iA_
+i9_ iAj iB_
+iA_ iBj iC_
+iB_ iCj iD_
+i0. i1j
+i1. i2j
+i2. i3j
+i3. i4j
+i4. i5j
+i5. i6j
+i6. i7j
+i7. i8j
+i8. i9j
+i9. iAj
+iA. iBj
+iB. iCj
+iC. iDj
+i0j i1.
+i1j i2.
+i2j i3.
+i3j i4.
+i4j i5.
+i5j i6.
+i6j i7.
+i7j i8.
+i8j i9.
+i9j iA.
+iAj iB.
+iBj iC.
+iCj iD.
+i0. i1j i2.
+i1. i2j i3.
+i2. i3j i4.
+i3. i4j i5.
+i4. i5j i6.
+i5. i6j i7.
+i6. i7j i8.
+i7. i8j i9.
+i8. i9j iA.
+i9. iAj iB.
+iA. iBj iC.
+iB. iCj iD.
+i0. i1_ i2j
+i1. i2_ i3j
+i2. i3_ i4j
+i3. i4_ i5j
+i4. i5_ i6j
+i5. i6_ i7j
+i6. i7_ i8j
+i7. i8_ i9j
+i8. i9_ iAj
+i9. iA_ iBj
+iA. iB_ iCj
+iB. iC_ iDj
+i0_ i1. i2j
+i1_ i2. i3j
+i2_ i3. i4j
+i3_ i4. i5j
+i4_ i5. i6j
+i5_ i6. i7j
+i6_ i7. i8j
+i7_ i8. i9j
+i8_ i9. iAj
+i9_ iA. iBj
+iA_ iB. iCj
+iB_ iC. iDj
+i0. i1_ i2j i3. i4_
+i1. i2_ i3j i4. i5_
+i2. i3_ i4j i5. i6_
+i3. i4_ i5j i6. i7_
+i4. i5_ i6j i7. i8_
+i5. i6_ i7j i8. i9_
+i6. i7_ i8j i9. iA_
+i7. i8_ i9j iA. iB_
+i8. i9_ iAj iB. iC_
+i9. iA_ iBj iC. iD_
+i0. i1_ i2j i3_ i4.
+i1. i2_ i3j i4_ i5.
+i2. i3_ i4j i5_ i6.
+i3. i4_ i5j i6_ i7.
+i4. i5_ i6j i7_ i8.
+i5. i6_ i7j i8_ i9.
+i6. i7_ i8j i9_ iA.
+i7. i8_ i9j iA_ iB.
+i8. i9_ iAj iB_ iC.
+i9. iA_ iBj iC_ iD.
+i0. i1_ i2j i3_
+i1. i2_ i3j i4_
+i2. i3_ i4j i5_
+i3. i4_ i5j i6_
+i4. i5_ i6j i7_
+i5. i6_ i7j i8_
+i6. i7_ i8j i9_
+i7. i8_ i9j iA_
+i8. i9_ iAj iB_
+i9. iA_ iBj iC_
+iA. iB_ iCj iD_
+i0. i1_ i2j i3.
+i1. i2_ i3j i4.
+i2. i3_ i4j i5.
+i3. i4_ i5j i6.
+i4. i5_ i6j i7.
+i5. i6_ i7j i8.
+i6. i7_ i8j i9.
+i7. i8_ i9j iA.
+i8. i9_ iAj iB.
+i9. iA_ iBj iC.
+iA. iB_ iCj iD.
+i0_ i1. i2j i3.
+i1_ i2. i3j i4.
+i2_ i3. i4j i5.
+i3_ i4. i5j i6.
+i4_ i5. i6j i7.
+i5_ i6. i7j i8.
+i6_ i7. i8j i9.
+i7_ i8. i9j iA.
+i8_ i9. iAj iB.
+i9_ iA. iBj iC.
+iA_ iB. iCj iD.
+i0_ i1. i2j i3. i4_
+i1_ i2. i3j i4. i5_
+i2_ i3. i4j i5. i6_
+i3_ i4. i5j i6. i7_
+i4_ i5. i6j i7. i8_
+i5_ i6. i7j i8. i9_
+i6_ i7. i8j i9. iA_
+i7_ i8. i9j iA. iB_
+i8_ i9. iAj iB. iC_
+i9_ iA. iBj iC. iD_
+i0_ i1. i2j i3_ i4.
+i1_ i2. i3j i4_ i5.
+i2_ i3. i4j i5_ i6.
+i3_ i4. i5j i6_ i7.
+i4_ i5. i6j i7_ i8.
+i5_ i6. i7j i8_ i9.
+i6_ i7. i8j i9_ iA.
+i7_ i8. i9j iA_ iB.
+i8_ i9. iAj iB_ iC.
+i9_ iA. iBj iC_ iD.
+i0_ i1. i2j i3_
+i1_ i2. i3j i4_
+i2_ i3. i4j i5_
+i3_ i4. i5j i6_
+i4_ i5. i6j i7_
+i5_ i6. i7j i8_
+i6_ i7. i8j i9_
+i7_ i8. i9j iA_
+i8_ i9. iAj iB_
+i9_ iA. iBj iC_
+iA_ iB. iCj iD_
+i0- i1j
+i1- i2j
+i2- i3j
+i3- i4j
+i4- i5j
+i5- i6j
+i6- i7j
+i7- i8j
+i8- i9j
+i9- iAj
+iA- iBj
+iB- iCj
+iC- iDj
+i0j i1-
+i1j i2-
+i2j i3-
+i3j i4-
+i4j i5-
+i5j i6-
+i6j i7-
+i7j i8-
+i8j i9-
+i9j iA-
+iAj iB-
+iBj iC-
+iCj iD-
+i0- i1j i2-
+i1- i2j i3-
+i2- i3j i4-
+i3- i4j i5-
+i4- i5j i6-
+i5- i6j i7-
+i6- i7j i8-
+i7- i8j i9-
+i8- i9j iA-
+i9- iAj iB-
+iA- iBj iC-
+iB- iCj iD-
+i0- i1j i2.
+i1- i2j i3.
+i2- i3j i4.
+i3- i4j i5.
+i4- i5j i6.
+i5- i6j i7.
+i6- i7j i8.
+i7- i8j i9.
+i8- i9j iA.
+i9- iAj iB.
+iA- iBj iC.
+iB- iCj iD.
+i0. i1j i2-
+i1. i2j i3-
+i2. i3j i4-
+i3. i4j i5-
+i4. i5j i6-
+i5. i6j i7-
+i6. i7j i8-
+i7. i8j i9-
+i8. i9j iA-
+i9. iAj iB-
+iA. iBj iC-
+iB. iCj iD-
+i0k
+i1k
+i2k
+i3k
+i4k
+i5k
+i6k
+i7k
+i8k
+i9k
+iAk
+iBk
+iCk
+iDk
+i0_ i1k
+i1_ i2k
+i2_ i3k
+i3_ i4k
+i4_ i5k
+i5_ i6k
+i6_ i7k
+i7_ i8k
+i8_ i9k
+i9_ iAk
+iA_ iBk
+iB_ iCk
+iC_ iDk
+i0k i1_
+i1k i2_
+i2k i3_
+i3k i4_
+i4k i5_
+i5k i6_
+i6k i7_
+i7k i8_
+i8k i9_
+i9k iA_
+iAk iB_
+iBk iC_
+iCk iD_
+i0_ i1k i2_
+i1_ i2k i3_
+i2_ i3k i4_
+i3_ i4k i5_
+i4_ i5k i6_
+i5_ i6k i7_
+i6_ i7k i8_
+i7_ i8k i9_
+i8_ i9k iA_
+i9_ iAk iB_
+iA_ iBk iC_
+iB_ iCk iD_
+i0. i1k
+i1. i2k
+i2. i3k
+i3. i4k
+i4. i5k
+i5. i6k
+i6. i7k
+i7. i8k
+i8. i9k
+i9. iAk
+iA. iBk
+iB. iCk
+iC. iDk
+i0k i1.
+i1k i2.
+i2k i3.
+i3k i4.
+i4k i5.
+i5k i6.
+i6k i7.
+i7k i8.
+i8k i9.
+i9k iA.
+iAk iB.
+iBk iC.
+iCk iD.
+i0. i1k i2.
+i1. i2k i3.
+i2. i3k i4.
+i3. i4k i5.
+i4. i5k i6.
+i5. i6k i7.
+i6. i7k i8.
+i7. i8k i9.
+i8. i9k iA.
+i9. iAk iB.
+iA. iBk iC.
+iB. iCk iD.
+i0. i1_ i2k
+i1. i2_ i3k
+i2. i3_ i4k
+i3. i4_ i5k
+i4. i5_ i6k
+i5. i6_ i7k
+i6. i7_ i8k
+i7. i8_ i9k
+i8. i9_ iAk
+i9. iA_ iBk
+iA. iB_ iCk
+iB. iC_ iDk
+i0_ i1. i2k
+i1_ i2. i3k
+i2_ i3. i4k
+i3_ i4. i5k
+i4_ i5. i6k
+i5_ i6. i7k
+i6_ i7. i8k
+i7_ i8. i9k
+i8_ i9. iAk
+i9_ iA. iBk
+iA_ iB. iCk
+iB_ iC. iDk
+i0. i1_ i2k i3. i4_
+i1. i2_ i3k i4. i5_
+i2. i3_ i4k i5. i6_
+i3. i4_ i5k i6. i7_
+i4. i5_ i6k i7. i8_
+i5. i6_ i7k i8. i9_
+i6. i7_ i8k i9. iA_
+i7. i8_ i9k iA. iB_
+i8. i9_ iAk iB. iC_
+i9. iA_ iBk iC. iD_
+i0. i1_ i2k i3_ i4.
+i1. i2_ i3k i4_ i5.
+i2. i3_ i4k i5_ i6.
+i3. i4_ i5k i6_ i7.
+i4. i5_ i6k i7_ i8.
+i5. i6_ i7k i8_ i9.
+i6. i7_ i8k i9_ iA.
+i7. i8_ i9k iA_ iB.
+i8. i9_ iAk iB_ iC.
+i9. iA_ iBk iC_ iD.
+i0. i1_ i2k i3_
+i1. i2_ i3k i4_
+i2. i3_ i4k i5_
+i3. i4_ i5k i6_
+i4. i5_ i6k i7_
+i5. i6_ i7k i8_
+i6. i7_ i8k i9_
+i7. i8_ i9k iA_
+i8. i9_ iAk iB_
+i9. iA_ iBk iC_
+iA. iB_ iCk iD_
+i0. i1_ i2k i3.
+i1. i2_ i3k i4.
+i2. i3_ i4k i5.
+i3. i4_ i5k i6.
+i4. i5_ i6k i7.
+i5. i6_ i7k i8.
+i6. i7_ i8k i9.
+i7. i8_ i9k iA.
+i8. i9_ iAk iB.
+i9. iA_ iBk iC.
+iA. iB_ iCk iD.
+i0_ i1. i2k i3.
+i1_ i2. i3k i4.
+i2_ i3. i4k i5.
+i3_ i4. i5k i6.
+i4_ i5. i6k i7.
+i5_ i6. i7k i8.
+i6_ i7. i8k i9.
+i7_ i8. i9k iA.
+i8_ i9. iAk iB.
+i9_ iA. iBk iC.
+iA_ iB. iCk iD.
+i0_ i1. i2k i3. i4_
+i1_ i2. i3k i4. i5_
+i2_ i3. i4k i5. i6_
+i3_ i4. i5k i6. i7_
+i4_ i5. i6k i7. i8_
+i5_ i6. i7k i8. i9_
+i6_ i7. i8k i9. iA_
+i7_ i8. i9k iA. iB_
+i8_ i9. iAk iB. iC_
+i9_ iA. iBk iC. iD_
+i0_ i1. i2k i3_ i4.
+i1_ i2. i3k i4_ i5.
+i2_ i3. i4k i5_ i6.
+i3_ i4. i5k i6_ i7.
+i4_ i5. i6k i7_ i8.
+i5_ i6. i7k i8_ i9.
+i6_ i7. i8k i9_ iA.
+i7_ i8. i9k iA_ iB.
+i8_ i9. iAk iB_ iC.
+i9_ iA. iBk iC_ iD.
+i0_ i1. i2k i3_
+i1_ i2. i3k i4_
+i2_ i3. i4k i5_
+i3_ i4. i5k i6_
+i4_ i5. i6k i7_
+i5_ i6. i7k i8_
+i6_ i7. i8k i9_
+i7_ i8. i9k iA_
+i8_ i9. iAk iB_
+i9_ iA. iBk iC_
+iA_ iB. iCk iD_
+i0- i1k
+i1- i2k
+i2- i3k
+i3- i4k
+i4- i5k
+i5- i6k
+i6- i7k
+i7- i8k
+i8- i9k
+i9- iAk
+iA- iBk
+iB- iCk
+iC- iDk
+i0k i1-
+i1k i2-
+i2k i3-
+i3k i4-
+i4k i5-
+i5k i6-
+i6k i7-
+i7k i8-
+i8k i9-
+i9k iA-
+iAk iB-
+iBk iC-
+iCk iD-
+i0- i1k i2-
+i1- i2k i3-
+i2- i3k i4-
+i3- i4k i5-
+i4- i5k i6-
+i5- i6k i7-
+i6- i7k i8-
+i7- i8k i9-
+i8- i9k iA-
+i9- iAk iB-
+iA- iBk iC-
+iB- iCk iD-
+i0- i1k i2.
+i1- i2k i3.
+i2- i3k i4.
+i3- i4k i5.
+i4- i5k i6.
+i5- i6k i7.
+i6- i7k i8.
+i7- i8k i9.
+i8- i9k iA.
+i9- iAk iB.
+iA- iBk iC.
+iB- iCk iD.
+i0. i1k i2-
+i1. i2k i3-
+i2. i3k i4-
+i3. i4k i5-
+i4. i5k i6-
+i5. i6k i7-
+i6. i7k i8-
+i7. i8k i9-
+i8. i9k iA-
+i9. iAk iB-
+iA. iBk iC-
+iB. iCk iD-
+i0l
+i1l
+i2l
+i3l
+i4l
+i5l
+i6l
+i7l
+i8l
+i9l
+iAl
+iBl
+iCl
+iDl
+i0_ i1l
+i1_ i2l
+i2_ i3l
+i3_ i4l
+i4_ i5l
+i5_ i6l
+i6_ i7l
+i7_ i8l
+i8_ i9l
+i9_ iAl
+iA_ iBl
+iB_ iCl
+iC_ iDl
+i0l i1_
+i1l i2_
+i2l i3_
+i3l i4_
+i4l i5_
+i5l i6_
+i6l i7_
+i7l i8_
+i8l i9_
+i9l iA_
+iAl iB_
+iBl iC_
+iCl iD_
+i0_ i1l i2_
+i1_ i2l i3_
+i2_ i3l i4_
+i3_ i4l i5_
+i4_ i5l i6_
+i5_ i6l i7_
+i6_ i7l i8_
+i7_ i8l i9_
+i8_ i9l iA_
+i9_ iAl iB_
+iA_ iBl iC_
+iB_ iCl iD_
+i0. i1l
+i1. i2l
+i2. i3l
+i3. i4l
+i4. i5l
+i5. i6l
+i6. i7l
+i7. i8l
+i8. i9l
+i9. iAl
+iA. iBl
+iB. iCl
+iC. iDl
+i0l i1.
+i1l i2.
+i2l i3.
+i3l i4.
+i4l i5.
+i5l i6.
+i6l i7.
+i7l i8.
+i8l i9.
+i9l iA.
+iAl iB.
+iBl iC.
+iCl iD.
+i0. i1l i2.
+i1. i2l i3.
+i2. i3l i4.
+i3. i4l i5.
+i4. i5l i6.
+i5. i6l i7.
+i6. i7l i8.
+i7. i8l i9.
+i8. i9l iA.
+i9. iAl iB.
+iA. iBl iC.
+iB. iCl iD.
+i0. i1_ i2l
+i1. i2_ i3l
+i2. i3_ i4l
+i3. i4_ i5l
+i4. i5_ i6l
+i5. i6_ i7l
+i6. i7_ i8l
+i7. i8_ i9l
+i8. i9_ iAl
+i9. iA_ iBl
+iA. iB_ iCl
+iB. iC_ iDl
+i0_ i1. i2l
+i1_ i2. i3l
+i2_ i3. i4l
+i3_ i4. i5l
+i4_ i5. i6l
+i5_ i6. i7l
+i6_ i7. i8l
+i7_ i8. i9l
+i8_ i9. iAl
+i9_ iA. iBl
+iA_ iB. iCl
+iB_ iC. iDl
+i0. i1_ i2l i3. i4_
+i1. i2_ i3l i4. i5_
+i2. i3_ i4l i5. i6_
+i3. i4_ i5l i6. i7_
+i4. i5_ i6l i7. i8_
+i5. i6_ i7l i8. i9_
+i6. i7_ i8l i9. iA_
+i7. i8_ i9l iA. iB_
+i8. i9_ iAl iB. iC_
+i9. iA_ iBl iC. iD_
+i0. i1_ i2l i3_ i4.
+i1. i2_ i3l i4_ i5.
+i2. i3_ i4l i5_ i6.
+i3. i4_ i5l i6_ i7.
+i4. i5_ i6l i7_ i8.
+i5. i6_ i7l i8_ i9.
+i6. i7_ i8l i9_ iA.
+i7. i8_ i9l iA_ iB.
+i8. i9_ iAl iB_ iC.
+i9. iA_ iBl iC_ iD.
+i0. i1_ i2l i3_
+i1. i2_ i3l i4_
+i2. i3_ i4l i5_
+i3. i4_ i5l i6_
+i4. i5_ i6l i7_
+i5. i6_ i7l i8_
+i6. i7_ i8l i9_
+i7. i8_ i9l iA_
+i8. i9_ iAl iB_
+i9. iA_ iBl iC_
+iA. iB_ iCl iD_
+i0. i1_ i2l i3.
+i1. i2_ i3l i4.
+i2. i3_ i4l i5.
+i3. i4_ i5l i6.
+i4. i5_ i6l i7.
+i5. i6_ i7l i8.
+i6. i7_ i8l i9.
+i7. i8_ i9l iA.
+i8. i9_ iAl iB.
+i9. iA_ iBl iC.
+iA. iB_ iCl iD.
+i0_ i1. i2l i3.
+i1_ i2. i3l i4.
+i2_ i3. i4l i5.
+i3_ i4. i5l i6.
+i4_ i5. i6l i7.
+i5_ i6. i7l i8.
+i6_ i7. i8l i9.
+i7_ i8. i9l iA.
+i8_ i9. iAl iB.
+i9_ iA. iBl iC.
+iA_ iB. iCl iD.
+i0_ i1. i2l i3. i4_
+i1_ i2. i3l i4. i5_
+i2_ i3. i4l i5. i6_
+i3_ i4. i5l i6. i7_
+i4_ i5. i6l i7. i8_
+i5_ i6. i7l i8. i9_
+i6_ i7. i8l i9. iA_
+i7_ i8. i9l iA. iB_
+i8_ i9. iAl iB. iC_
+i9_ iA. iBl iC. iD_
+i0_ i1. i2l i3_ i4.
+i1_ i2. i3l i4_ i5.
+i2_ i3. i4l i5_ i6.
+i3_ i4. i5l i6_ i7.
+i4_ i5. i6l i7_ i8.
+i5_ i6. i7l i8_ i9.
+i6_ i7. i8l i9_ iA.
+i7_ i8. i9l iA_ iB.
+i8_ i9. iAl iB_ iC.
+i9_ iA. iBl iC_ iD.
+i0_ i1. i2l i3_
+i1_ i2. i3l i4_
+i2_ i3. i4l i5_
+i3_ i4. i5l i6_
+i4_ i5. i6l i7_
+i5_ i6. i7l i8_
+i6_ i7. i8l i9_
+i7_ i8. i9l iA_
+i8_ i9. iAl iB_
+i9_ iA. iBl iC_
+iA_ iB. iCl iD_
+i0- i1l
+i1- i2l
+i2- i3l
+i3- i4l
+i4- i5l
+i5- i6l
+i6- i7l
+i7- i8l
+i8- i9l
+i9- iAl
+iA- iBl
+iB- iCl
+iC- iDl
+i0l i1-
+i1l i2-
+i2l i3-
+i3l i4-
+i4l i5-
+i5l i6-
+i6l i7-
+i7l i8-
+i8l i9-
+i9l iA-
+iAl iB-
+iBl iC-
+iCl iD-
+i0- i1l i2-
+i1- i2l i3-
+i2- i3l i4-
+i3- i4l i5-
+i4- i5l i6-
+i5- i6l i7-
+i6- i7l i8-
+i7- i8l i9-
+i8- i9l iA-
+i9- iAl iB-
+iA- iBl iC-
+iB- iCl iD-
+i0- i1l i2.
+i1- i2l i3.
+i2- i3l i4.
+i3- i4l i5.
+i4- i5l i6.
+i5- i6l i7.
+i6- i7l i8.
+i7- i8l i9.
+i8- i9l iA.
+i9- iAl iB.
+iA- iBl iC.
+iB- iCl iD.
+i0. i1l i2-
+i1. i2l i3-
+i2. i3l i4-
+i3. i4l i5-
+i4. i5l i6-
+i5. i6l i7-
+i6. i7l i8-
+i7. i8l i9-
+i8. i9l iA-
+i9. iAl iB-
+iA. iBl iC-
+iB. iCl iD-
+i0m
+i1m
+i2m
+i3m
+i4m
+i5m
+i6m
+i7m
+i8m
+i9m
+iAm
+iBm
+iCm
+iDm
+i0_ i1m
+i1_ i2m
+i2_ i3m
+i3_ i4m
+i4_ i5m
+i5_ i6m
+i6_ i7m
+i7_ i8m
+i8_ i9m
+i9_ iAm
+iA_ iBm
+iB_ iCm
+iC_ iDm
+i0m i1_
+i1m i2_
+i2m i3_
+i3m i4_
+i4m i5_
+i5m i6_
+i6m i7_
+i7m i8_
+i8m i9_
+i9m iA_
+iAm iB_
+iBm iC_
+iCm iD_
+i0_ i1m i2_
+i1_ i2m i3_
+i2_ i3m i4_
+i3_ i4m i5_
+i4_ i5m i6_
+i5_ i6m i7_
+i6_ i7m i8_
+i7_ i8m i9_
+i8_ i9m iA_
+i9_ iAm iB_
+iA_ iBm iC_
+iB_ iCm iD_
+i0. i1m
+i1. i2m
+i2. i3m
+i3. i4m
+i4. i5m
+i5. i6m
+i6. i7m
+i7. i8m
+i8. i9m
+i9. iAm
+iA. iBm
+iB. iCm
+iC. iDm
+i0m i1.
+i1m i2.
+i2m i3.
+i3m i4.
+i4m i5.
+i5m i6.
+i6m i7.
+i7m i8.
+i8m i9.
+i9m iA.
+iAm iB.
+iBm iC.
+iCm iD.
+i0. i1m i2.
+i1. i2m i3.
+i2. i3m i4.
+i3. i4m i5.
+i4. i5m i6.
+i5. i6m i7.
+i6. i7m i8.
+i7. i8m i9.
+i8. i9m iA.
+i9. iAm iB.
+iA. iBm iC.
+iB. iCm iD.
+i0. i1_ i2m
+i1. i2_ i3m
+i2. i3_ i4m
+i3. i4_ i5m
+i4. i5_ i6m
+i5. i6_ i7m
+i6. i7_ i8m
+i7. i8_ i9m
+i8. i9_ iAm
+i9. iA_ iBm
+iA. iB_ iCm
+iB. iC_ iDm
+i0_ i1. i2m
+i1_ i2. i3m
+i2_ i3. i4m
+i3_ i4. i5m
+i4_ i5. i6m
+i5_ i6. i7m
+i6_ i7. i8m
+i7_ i8. i9m
+i8_ i9. iAm
+i9_ iA. iBm
+iA_ iB. iCm
+iB_ iC. iDm
+i0. i1_ i2m i3. i4_
+i1. i2_ i3m i4. i5_
+i2. i3_ i4m i5. i6_
+i3. i4_ i5m i6. i7_
+i4. i5_ i6m i7. i8_
+i5. i6_ i7m i8. i9_
+i6. i7_ i8m i9. iA_
+i7. i8_ i9m iA. iB_
+i8. i9_ iAm iB. iC_
+i9. iA_ iBm iC. iD_
+i0. i1_ i2m i3_ i4.
+i1. i2_ i3m i4_ i5.
+i2. i3_ i4m i5_ i6.
+i3. i4_ i5m i6_ i7.
+i4. i5_ i6m i7_ i8.
+i5. i6_ i7m i8_ i9.
+i6. i7_ i8m i9_ iA.
+i7. i8_ i9m iA_ iB.
+i8. i9_ iAm iB_ iC.
+i9. iA_ iBm iC_ iD.
+i0. i1_ i2m i3_
+i1. i2_ i3m i4_
+i2. i3_ i4m i5_
+i3. i4_ i5m i6_
+i4. i5_ i6m i7_
+i5. i6_ i7m i8_
+i6. i7_ i8m i9_
+i7. i8_ i9m iA_
+i8. i9_ iAm iB_
+i9. iA_ iBm iC_
+iA. iB_ iCm iD_
+i0. i1_ i2m i3.
+i1. i2_ i3m i4.
+i2. i3_ i4m i5.
+i3. i4_ i5m i6.
+i4. i5_ i6m i7.
+i5. i6_ i7m i8.
+i6. i7_ i8m i9.
+i7. i8_ i9m iA.
+i8. i9_ iAm iB.
+i9. iA_ iBm iC.
+iA. iB_ iCm iD.
+i0_ i1. i2m i3.
+i1_ i2. i3m i4.
+i2_ i3. i4m i5.
+i3_ i4. i5m i6.
+i4_ i5. i6m i7.
+i5_ i6. i7m i8.
+i6_ i7. i8m i9.
+i7_ i8. i9m iA.
+i8_ i9. iAm iB.
+i9_ iA. iBm iC.
+iA_ iB. iCm iD.
+i0_ i1. i2m i3. i4_
+i1_ i2. i3m i4. i5_
+i2_ i3. i4m i5. i6_
+i3_ i4. i5m i6. i7_
+i4_ i5. i6m i7. i8_
+i5_ i6. i7m i8. i9_
+i6_ i7. i8m i9. iA_
+i7_ i8. i9m iA. iB_
+i8_ i9. iAm iB. iC_
+i9_ iA. iBm iC. iD_
+i0_ i1. i2m i3_ i4.
+i1_ i2. i3m i4_ i5.
+i2_ i3. i4m i5_ i6.
+i3_ i4. i5m i6_ i7.
+i4_ i5. i6m i7_ i8.
+i5_ i6. i7m i8_ i9.
+i6_ i7. i8m i9_ iA.
+i7_ i8. i9m iA_ iB.
+i8_ i9. iAm iB_ iC.
+i9_ iA. iBm iC_ iD.
+i0_ i1. i2m i3_
+i1_ i2. i3m i4_
+i2_ i3. i4m i5_
+i3_ i4. i5m i6_
+i4_ i5. i6m i7_
+i5_ i6. i7m i8_
+i6_ i7. i8m i9_
+i7_ i8. i9m iA_
+i8_ i9. iAm iB_
+i9_ iA. iBm iC_
+iA_ iB. iCm iD_
+i0- i1m
+i1- i2m
+i2- i3m
+i3- i4m
+i4- i5m
+i5- i6m
+i6- i7m
+i7- i8m
+i8- i9m
+i9- iAm
+iA- iBm
+iB- iCm
+iC- iDm
+i0m i1-
+i1m i2-
+i2m i3-
+i3m i4-
+i4m i5-
+i5m i6-
+i6m i7-
+i7m i8-
+i8m i9-
+i9m iA-
+iAm iB-
+iBm iC-
+iCm iD-
+i0- i1m i2-
+i1- i2m i3-
+i2- i3m i4-
+i3- i4m i5-
+i4- i5m i6-
+i5- i6m i7-
+i6- i7m i8-
+i7- i8m i9-
+i8- i9m iA-
+i9- iAm iB-
+iA- iBm iC-
+iB- iCm iD-
+i0- i1m i2.
+i1- i2m i3.
+i2- i3m i4.
+i3- i4m i5.
+i4- i5m i6.
+i5- i6m i7.
+i6- i7m i8.
+i7- i8m i9.
+i8- i9m iA.
+i9- iAm iB.
+iA- iBm iC.
+iB- iCm iD.
+i0. i1m i2-
+i1. i2m i3-
+i2. i3m i4-
+i3. i4m i5-
+i4. i5m i6-
+i5. i6m i7-
+i6. i7m i8-
+i7. i8m i9-
+i8. i9m iA-
+i9. iAm iB-
+iA. iBm iC-
+iB. iCm iD-
+i0n
+i1n
+i2n
+i3n
+i4n
+i5n
+i6n
+i7n
+i8n
+i9n
+iAn
+iBn
+iCn
+iDn
+i0_ i1n
+i1_ i2n
+i2_ i3n
+i3_ i4n
+i4_ i5n
+i5_ i6n
+i6_ i7n
+i7_ i8n
+i8_ i9n
+i9_ iAn
+iA_ iBn
+iB_ iCn
+iC_ iDn
+i0n i1_
+i1n i2_
+i2n i3_
+i3n i4_
+i4n i5_
+i5n i6_
+i6n i7_
+i7n i8_
+i8n i9_
+i9n iA_
+iAn iB_
+iBn iC_
+iCn iD_
+i0_ i1n i2_
+i1_ i2n i3_
+i2_ i3n i4_
+i3_ i4n i5_
+i4_ i5n i6_
+i5_ i6n i7_
+i6_ i7n i8_
+i7_ i8n i9_
+i8_ i9n iA_
+i9_ iAn iB_
+iA_ iBn iC_
+iB_ iCn iD_
+i0. i1n
+i1. i2n
+i2. i3n
+i3. i4n
+i4. i5n
+i5. i6n
+i6. i7n
+i7. i8n
+i8. i9n
+i9. iAn
+iA. iBn
+iB. iCn
+iC. iDn
+i0n i1.
+i1n i2.
+i2n i3.
+i3n i4.
+i4n i5.
+i5n i6.
+i6n i7.
+i7n i8.
+i8n i9.
+i9n iA.
+iAn iB.
+iBn iC.
+iCn iD.
+i0. i1n i2.
+i1. i2n i3.
+i2. i3n i4.
+i3. i4n i5.
+i4. i5n i6.
+i5. i6n i7.
+i6. i7n i8.
+i7. i8n i9.
+i8. i9n iA.
+i9. iAn iB.
+iA. iBn iC.
+iB. iCn iD.
+i0. i1_ i2n
+i1. i2_ i3n
+i2. i3_ i4n
+i3. i4_ i5n
+i4. i5_ i6n
+i5. i6_ i7n
+i6. i7_ i8n
+i7. i8_ i9n
+i8. i9_ iAn
+i9. iA_ iBn
+iA. iB_ iCn
+iB. iC_ iDn
+i0_ i1. i2n
+i1_ i2. i3n
+i2_ i3. i4n
+i3_ i4. i5n
+i4_ i5. i6n
+i5_ i6. i7n
+i6_ i7. i8n
+i7_ i8. i9n
+i8_ i9. iAn
+i9_ iA. iBn
+iA_ iB. iCn
+iB_ iC. iDn
+i0. i1_ i2n i3. i4_
+i1. i2_ i3n i4. i5_
+i2. i3_ i4n i5. i6_
+i3. i4_ i5n i6. i7_
+i4. i5_ i6n i7. i8_
+i5. i6_ i7n i8. i9_
+i6. i7_ i8n i9. iA_
+i7. i8_ i9n iA. iB_
+i8. i9_ iAn iB. iC_
+i9. iA_ iBn iC. iD_
+i0. i1_ i2n i3_ i4.
+i1. i2_ i3n i4_ i5.
+i2. i3_ i4n i5_ i6.
+i3. i4_ i5n i6_ i7.
+i4. i5_ i6n i7_ i8.
+i5. i6_ i7n i8_ i9.
+i6. i7_ i8n i9_ iA.
+i7. i8_ i9n iA_ iB.
+i8. i9_ iAn iB_ iC.
+i9. iA_ iBn iC_ iD.
+i0. i1_ i2n i3_
+i1. i2_ i3n i4_
+i2. i3_ i4n i5_
+i3. i4_ i5n i6_
+i4. i5_ i6n i7_
+i5. i6_ i7n i8_
+i6. i7_ i8n i9_
+i7. i8_ i9n iA_
+i8. i9_ iAn iB_
+i9. iA_ iBn iC_
+iA. iB_ iCn iD_
+i0. i1_ i2n i3.
+i1. i2_ i3n i4.
+i2. i3_ i4n i5.
+i3. i4_ i5n i6.
+i4. i5_ i6n i7.
+i5. i6_ i7n i8.
+i6. i7_ i8n i9.
+i7. i8_ i9n iA.
+i8. i9_ iAn iB.
+i9. iA_ iBn iC.
+iA. iB_ iCn iD.
+i0_ i1. i2n i3.
+i1_ i2. i3n i4.
+i2_ i3. i4n i5.
+i3_ i4. i5n i6.
+i4_ i5. i6n i7.
+i5_ i6. i7n i8.
+i6_ i7. i8n i9.
+i7_ i8. i9n iA.
+i8_ i9. iAn iB.
+i9_ iA. iBn iC.
+iA_ iB. iCn iD.
+i0_ i1. i2n i3. i4_
+i1_ i2. i3n i4. i5_
+i2_ i3. i4n i5. i6_
+i3_ i4. i5n i6. i7_
+i4_ i5. i6n i7. i8_
+i5_ i6. i7n i8. i9_
+i6_ i7. i8n i9. iA_
+i7_ i8. i9n iA. iB_
+i8_ i9. iAn iB. iC_
+i9_ iA. iBn iC. iD_
+i0_ i1. i2n i3_ i4.
+i1_ i2. i3n i4_ i5.
+i2_ i3. i4n i5_ i6.
+i3_ i4. i5n i6_ i7.
+i4_ i5. i6n i7_ i8.
+i5_ i6. i7n i8_ i9.
+i6_ i7. i8n i9_ iA.
+i7_ i8. i9n iA_ iB.
+i8_ i9. iAn iB_ iC.
+i9_ iA. iBn iC_ iD.
+i0_ i1. i2n i3_
+i1_ i2. i3n i4_
+i2_ i3. i4n i5_
+i3_ i4. i5n i6_
+i4_ i5. i6n i7_
+i5_ i6. i7n i8_
+i6_ i7. i8n i9_
+i7_ i8. i9n iA_
+i8_ i9. iAn iB_
+i9_ iA. iBn iC_
+iA_ iB. iCn iD_
+i0- i1n
+i1- i2n
+i2- i3n
+i3- i4n
+i4- i5n
+i5- i6n
+i6- i7n
+i7- i8n
+i8- i9n
+i9- iAn
+iA- iBn
+iB- iCn
+iC- iDn
+i0n i1-
+i1n i2-
+i2n i3-
+i3n i4-
+i4n i5-
+i5n i6-
+i6n i7-
+i7n i8-
+i8n i9-
+i9n iA-
+iAn iB-
+iBn iC-
+iCn iD-
+i0- i1n i2-
+i1- i2n i3-
+i2- i3n i4-
+i3- i4n i5-
+i4- i5n i6-
+i5- i6n i7-
+i6- i7n i8-
+i7- i8n i9-
+i8- i9n iA-
+i9- iAn iB-
+iA- iBn iC-
+iB- iCn iD-
+i0- i1n i2.
+i1- i2n i3.
+i2- i3n i4.
+i3- i4n i5.
+i4- i5n i6.
+i5- i6n i7.
+i6- i7n i8.
+i7- i8n i9.
+i8- i9n iA.
+i9- iAn iB.
+iA- iBn iC.
+iB- iCn iD.
+i0. i1n i2-
+i1. i2n i3-
+i2. i3n i4-
+i3. i4n i5-
+i4. i5n i6-
+i5. i6n i7-
+i6. i7n i8-
+i7. i8n i9-
+i8. i9n iA-
+i9. iAn iB-
+iA. iBn iC-
+iB. iCn iD-
+i0o
+i1o
+i2o
+i3o
+i4o
+i5o
+i6o
+i7o
+i8o
+i9o
+iAo
+iBo
+iCo
+iDo
+i0_ i1o
+i1_ i2o
+i2_ i3o
+i3_ i4o
+i4_ i5o
+i5_ i6o
+i6_ i7o
+i7_ i8o
+i8_ i9o
+i9_ iAo
+iA_ iBo
+iB_ iCo
+iC_ iDo
+i0o i1_
+i1o i2_
+i2o i3_
+i3o i4_
+i4o i5_
+i5o i6_
+i6o i7_
+i7o i8_
+i8o i9_
+i9o iA_
+iAo iB_
+iBo iC_
+iCo iD_
+i0_ i1o i2_
+i1_ i2o i3_
+i2_ i3o i4_
+i3_ i4o i5_
+i4_ i5o i6_
+i5_ i6o i7_
+i6_ i7o i8_
+i7_ i8o i9_
+i8_ i9o iA_
+i9_ iAo iB_
+iA_ iBo iC_
+iB_ iCo iD_
+i0. i1o
+i1. i2o
+i2. i3o
+i3. i4o
+i4. i5o
+i5. i6o
+i6. i7o
+i7. i8o
+i8. i9o
+i9. iAo
+iA. iBo
+iB. iCo
+iC. iDo
+i0o i1.
+i1o i2.
+i2o i3.
+i3o i4.
+i4o i5.
+i5o i6.
+i6o i7.
+i7o i8.
+i8o i9.
+i9o iA.
+iAo iB.
+iBo iC.
+iCo iD.
+i0. i1o i2.
+i1. i2o i3.
+i2. i3o i4.
+i3. i4o i5.
+i4. i5o i6.
+i5. i6o i7.
+i6. i7o i8.
+i7. i8o i9.
+i8. i9o iA.
+i9. iAo iB.
+iA. iBo iC.
+iB. iCo iD.
+i0. i1_ i2o
+i1. i2_ i3o
+i2. i3_ i4o
+i3. i4_ i5o
+i4. i5_ i6o
+i5. i6_ i7o
+i6. i7_ i8o
+i7. i8_ i9o
+i8. i9_ iAo
+i9. iA_ iBo
+iA. iB_ iCo
+iB. iC_ iDo
+i0_ i1. i2o
+i1_ i2. i3o
+i2_ i3. i4o
+i3_ i4. i5o
+i4_ i5. i6o
+i5_ i6. i7o
+i6_ i7. i8o
+i7_ i8. i9o
+i8_ i9. iAo
+i9_ iA. iBo
+iA_ iB. iCo
+iB_ iC. iDo
+i0. i1_ i2o i3. i4_
+i1. i2_ i3o i4. i5_
+i2. i3_ i4o i5. i6_
+i3. i4_ i5o i6. i7_
+i4. i5_ i6o i7. i8_
+i5. i6_ i7o i8. i9_
+i6. i7_ i8o i9. iA_
+i7. i8_ i9o iA. iB_
+i8. i9_ iAo iB. iC_
+i9. iA_ iBo iC. iD_
+i0. i1_ i2o i3_ i4.
+i1. i2_ i3o i4_ i5.
+i2. i3_ i4o i5_ i6.
+i3. i4_ i5o i6_ i7.
+i4. i5_ i6o i7_ i8.
+i5. i6_ i7o i8_ i9.
+i6. i7_ i8o i9_ iA.
+i7. i8_ i9o iA_ iB.
+i8. i9_ iAo iB_ iC.
+i9. iA_ iBo iC_ iD.
+i0. i1_ i2o i3_
+i1. i2_ i3o i4_
+i2. i3_ i4o i5_
+i3. i4_ i5o i6_
+i4. i5_ i6o i7_
+i5. i6_ i7o i8_
+i6. i7_ i8o i9_
+i7. i8_ i9o iA_
+i8. i9_ iAo iB_
+i9. iA_ iBo iC_
+iA. iB_ iCo iD_
+i0. i1_ i2o i3.
+i1. i2_ i3o i4.
+i2. i3_ i4o i5.
+i3. i4_ i5o i6.
+i4. i5_ i6o i7.
+i5. i6_ i7o i8.
+i6. i7_ i8o i9.
+i7. i8_ i9o iA.
+i8. i9_ iAo iB.
+i9. iA_ iBo iC.
+iA. iB_ iCo iD.
+i0_ i1. i2o i3.
+i1_ i2. i3o i4.
+i2_ i3. i4o i5.
+i3_ i4. i5o i6.
+i4_ i5. i6o i7.
+i5_ i6. i7o i8.
+i6_ i7. i8o i9.
+i7_ i8. i9o iA.
+i8_ i9. iAo iB.
+i9_ iA. iBo iC.
+iA_ iB. iCo iD.
+i0_ i1. i2o i3. i4_
+i1_ i2. i3o i4. i5_
+i2_ i3. i4o i5. i6_
+i3_ i4. i5o i6. i7_
+i4_ i5. i6o i7. i8_
+i5_ i6. i7o i8. i9_
+i6_ i7. i8o i9. iA_
+i7_ i8. i9o iA. iB_
+i8_ i9. iAo iB. iC_
+i9_ iA. iBo iC. iD_
+i0_ i1. i2o i3_ i4.
+i1_ i2. i3o i4_ i5.
+i2_ i3. i4o i5_ i6.
+i3_ i4. i5o i6_ i7.
+i4_ i5. i6o i7_ i8.
+i5_ i6. i7o i8_ i9.
+i6_ i7. i8o i9_ iA.
+i7_ i8. i9o iA_ iB.
+i8_ i9. iAo iB_ iC.
+i9_ iA. iBo iC_ iD.
+i0_ i1. i2o i3_
+i1_ i2. i3o i4_
+i2_ i3. i4o i5_
+i3_ i4. i5o i6_
+i4_ i5. i6o i7_
+i5_ i6. i7o i8_
+i6_ i7. i8o i9_
+i7_ i8. i9o iA_
+i8_ i9. iAo iB_
+i9_ iA. iBo iC_
+iA_ iB. iCo iD_
+i0- i1o
+i1- i2o
+i2- i3o
+i3- i4o
+i4- i5o
+i5- i6o
+i6- i7o
+i7- i8o
+i8- i9o
+i9- iAo
+iA- iBo
+iB- iCo
+iC- iDo
+i0o i1-
+i1o i2-
+i2o i3-
+i3o i4-
+i4o i5-
+i5o i6-
+i6o i7-
+i7o i8-
+i8o i9-
+i9o iA-
+iAo iB-
+iBo iC-
+iCo iD-
+i0- i1o i2-
+i1- i2o i3-
+i2- i3o i4-
+i3- i4o i5-
+i4- i5o i6-
+i5- i6o i7-
+i6- i7o i8-
+i7- i8o i9-
+i8- i9o iA-
+i9- iAo iB-
+iA- iBo iC-
+iB- iCo iD-
+i0- i1o i2.
+i1- i2o i3.
+i2- i3o i4.
+i3- i4o i5.
+i4- i5o i6.
+i5- i6o i7.
+i6- i7o i8.
+i7- i8o i9.
+i8- i9o iA.
+i9- iAo iB.
+iA- iBo iC.
+iB- iCo iD.
+i0. i1o i2-
+i1. i2o i3-
+i2. i3o i4-
+i3. i4o i5-
+i4. i5o i6-
+i5. i6o i7-
+i6. i7o i8-
+i7. i8o i9-
+i8. i9o iA-
+i9. iAo iB-
+iA. iBo iC-
+iB. iCo iD-
+i0p
+i1p
+i2p
+i3p
+i4p
+i5p
+i6p
+i7p
+i8p
+i9p
+iAp
+iBp
+iCp
+iDp
+i0_ i1p
+i1_ i2p
+i2_ i3p
+i3_ i4p
+i4_ i5p
+i5_ i6p
+i6_ i7p
+i7_ i8p
+i8_ i9p
+i9_ iAp
+iA_ iBp
+iB_ iCp
+iC_ iDp
+i0p i1_
+i1p i2_
+i2p i3_
+i3p i4_
+i4p i5_
+i5p i6_
+i6p i7_
+i7p i8_
+i8p i9_
+i9p iA_
+iAp iB_
+iBp iC_
+iCp iD_
+i0_ i1p i2_
+i1_ i2p i3_
+i2_ i3p i4_
+i3_ i4p i5_
+i4_ i5p i6_
+i5_ i6p i7_
+i6_ i7p i8_
+i7_ i8p i9_
+i8_ i9p iA_
+i9_ iAp iB_
+iA_ iBp iC_
+iB_ iCp iD_
+i0. i1p
+i1. i2p
+i2. i3p
+i3. i4p
+i4. i5p
+i5. i6p
+i6. i7p
+i7. i8p
+i8. i9p
+i9. iAp
+iA. iBp
+iB. iCp
+iC. iDp
+i0p i1.
+i1p i2.
+i2p i3.
+i3p i4.
+i4p i5.
+i5p i6.
+i6p i7.
+i7p i8.
+i8p i9.
+i9p iA.
+iAp iB.
+iBp iC.
+iCp iD.
+i0. i1p i2.
+i1. i2p i3.
+i2. i3p i4.
+i3. i4p i5.
+i4. i5p i6.
+i5. i6p i7.
+i6. i7p i8.
+i7. i8p i9.
+i8. i9p iA.
+i9. iAp iB.
+iA. iBp iC.
+iB. iCp iD.
+i0. i1_ i2p
+i1. i2_ i3p
+i2. i3_ i4p
+i3. i4_ i5p
+i4. i5_ i6p
+i5. i6_ i7p
+i6. i7_ i8p
+i7. i8_ i9p
+i8. i9_ iAp
+i9. iA_ iBp
+iA. iB_ iCp
+iB. iC_ iDp
+i0_ i1. i2p
+i1_ i2. i3p
+i2_ i3. i4p
+i3_ i4. i5p
+i4_ i5. i6p
+i5_ i6. i7p
+i6_ i7. i8p
+i7_ i8. i9p
+i8_ i9. iAp
+i9_ iA. iBp
+iA_ iB. iCp
+iB_ iC. iDp
+i0. i1_ i2p i3. i4_
+i1. i2_ i3p i4. i5_
+i2. i3_ i4p i5. i6_
+i3. i4_ i5p i6. i7_
+i4. i5_ i6p i7. i8_
+i5. i6_ i7p i8. i9_
+i6. i7_ i8p i9. iA_
+i7. i8_ i9p iA. iB_
+i8. i9_ iAp iB. iC_
+i9. iA_ iBp iC. iD_
+i0. i1_ i2p i3_ i4.
+i1. i2_ i3p i4_ i5.
+i2. i3_ i4p i5_ i6.
+i3. i4_ i5p i6_ i7.
+i4. i5_ i6p i7_ i8.
+i5. i6_ i7p i8_ i9.
+i6. i7_ i8p i9_ iA.
+i7. i8_ i9p iA_ iB.
+i8. i9_ iAp iB_ iC.
+i9. iA_ iBp iC_ iD.
+i0. i1_ i2p i3_
+i1. i2_ i3p i4_
+i2. i3_ i4p i5_
+i3. i4_ i5p i6_
+i4. i5_ i6p i7_
+i5. i6_ i7p i8_
+i6. i7_ i8p i9_
+i7. i8_ i9p iA_
+i8. i9_ iAp iB_
+i9. iA_ iBp iC_
+iA. iB_ iCp iD_
+i0. i1_ i2p i3.
+i1. i2_ i3p i4.
+i2. i3_ i4p i5.
+i3. i4_ i5p i6.
+i4. i5_ i6p i7.
+i5. i6_ i7p i8.
+i6. i7_ i8p i9.
+i7. i8_ i9p iA.
+i8. i9_ iAp iB.
+i9. iA_ iBp iC.
+iA. iB_ iCp iD.
+i0_ i1. i2p i3.
+i1_ i2. i3p i4.
+i2_ i3. i4p i5.
+i3_ i4. i5p i6.
+i4_ i5. i6p i7.
+i5_ i6. i7p i8.
+i6_ i7. i8p i9.
+i7_ i8. i9p iA.
+i8_ i9. iAp iB.
+i9_ iA. iBp iC.
+iA_ iB. iCp iD.
+i0_ i1. i2p i3. i4_
+i1_ i2. i3p i4. i5_
+i2_ i3. i4p i5. i6_
+i3_ i4. i5p i6. i7_
+i4_ i5. i6p i7. i8_
+i5_ i6. i7p i8. i9_
+i6_ i7. i8p i9. iA_
+i7_ i8. i9p iA. iB_
+i8_ i9. iAp iB. iC_
+i9_ iA. iBp iC. iD_
+i0_ i1. i2p i3_ i4.
+i1_ i2. i3p i4_ i5.
+i2_ i3. i4p i5_ i6.
+i3_ i4. i5p i6_ i7.
+i4_ i5. i6p i7_ i8.
+i5_ i6. i7p i8_ i9.
+i6_ i7. i8p i9_ iA.
+i7_ i8. i9p iA_ iB.
+i8_ i9. iAp iB_ iC.
+i9_ iA. iBp iC_ iD.
+i0_ i1. i2p i3_
+i1_ i2. i3p i4_
+i2_ i3. i4p i5_
+i3_ i4. i5p i6_
+i4_ i5. i6p i7_
+i5_ i6. i7p i8_
+i6_ i7. i8p i9_
+i7_ i8. i9p iA_
+i8_ i9. iAp iB_
+i9_ iA. iBp iC_
+iA_ iB. iCp iD_
+i0- i1p
+i1- i2p
+i2- i3p
+i3- i4p
+i4- i5p
+i5- i6p
+i6- i7p
+i7- i8p
+i8- i9p
+i9- iAp
+iA- iBp
+iB- iCp
+iC- iDp
+i0p i1-
+i1p i2-
+i2p i3-
+i3p i4-
+i4p i5-
+i5p i6-
+i6p i7-
+i7p i8-
+i8p i9-
+i9p iA-
+iAp iB-
+iBp iC-
+iCp iD-
+i0- i1p i2-
+i1- i2p i3-
+i2- i3p i4-
+i3- i4p i5-
+i4- i5p i6-
+i5- i6p i7-
+i6- i7p i8-
+i7- i8p i9-
+i8- i9p iA-
+i9- iAp iB-
+iA- iBp iC-
+iB- iCp iD-
+i0- i1p i2.
+i1- i2p i3.
+i2- i3p i4.
+i3- i4p i5.
+i4- i5p i6.
+i5- i6p i7.
+i6- i7p i8.
+i7- i8p i9.
+i8- i9p iA.
+i9- iAp iB.
+iA- iBp iC.
+iB- iCp iD.
+i0. i1p i2-
+i1. i2p i3-
+i2. i3p i4-
+i3. i4p i5-
+i4. i5p i6-
+i5. i6p i7-
+i6. i7p i8-
+i7. i8p i9-
+i8. i9p iA-
+i9. iAp iB-
+iA. iBp iC-
+iB. iCp iD-
+i0q
+i1q
+i2q
+i3q
+i4q
+i5q
+i6q
+i7q
+i8q
+i9q
+iAq
+iBq
+iCq
+iDq
+i0_ i1q
+i1_ i2q
+i2_ i3q
+i3_ i4q
+i4_ i5q
+i5_ i6q
+i6_ i7q
+i7_ i8q
+i8_ i9q
+i9_ iAq
+iA_ iBq
+iB_ iCq
+iC_ iDq
+i0q i1_
+i1q i2_
+i2q i3_
+i3q i4_
+i4q i5_
+i5q i6_
+i6q i7_
+i7q i8_
+i8q i9_
+i9q iA_
+iAq iB_
+iBq iC_
+iCq iD_
+i0_ i1q i2_
+i1_ i2q i3_
+i2_ i3q i4_
+i3_ i4q i5_
+i4_ i5q i6_
+i5_ i6q i7_
+i6_ i7q i8_
+i7_ i8q i9_
+i8_ i9q iA_
+i9_ iAq iB_
+iA_ iBq iC_
+iB_ iCq iD_
+i0. i1q
+i1. i2q
+i2. i3q
+i3. i4q
+i4. i5q
+i5. i6q
+i6. i7q
+i7. i8q
+i8. i9q
+i9. iAq
+iA. iBq
+iB. iCq
+iC. iDq
+i0q i1.
+i1q i2.
+i2q i3.
+i3q i4.
+i4q i5.
+i5q i6.
+i6q i7.
+i7q i8.
+i8q i9.
+i9q iA.
+iAq iB.
+iBq iC.
+iCq iD.
+i0. i1q i2.
+i1. i2q i3.
+i2. i3q i4.
+i3. i4q i5.
+i4. i5q i6.
+i5. i6q i7.
+i6. i7q i8.
+i7. i8q i9.
+i8. i9q iA.
+i9. iAq iB.
+iA. iBq iC.
+iB. iCq iD.
+i0. i1_ i2q
+i1. i2_ i3q
+i2. i3_ i4q
+i3. i4_ i5q
+i4. i5_ i6q
+i5. i6_ i7q
+i6. i7_ i8q
+i7. i8_ i9q
+i8. i9_ iAq
+i9. iA_ iBq
+iA. iB_ iCq
+iB. iC_ iDq
+i0_ i1. i2q
+i1_ i2. i3q
+i2_ i3. i4q
+i3_ i4. i5q
+i4_ i5. i6q
+i5_ i6. i7q
+i6_ i7. i8q
+i7_ i8. i9q
+i8_ i9. iAq
+i9_ iA. iBq
+iA_ iB. iCq
+iB_ iC. iDq
+i0. i1_ i2q i3. i4_
+i1. i2_ i3q i4. i5_
+i2. i3_ i4q i5. i6_
+i3. i4_ i5q i6. i7_
+i4. i5_ i6q i7. i8_
+i5. i6_ i7q i8. i9_
+i6. i7_ i8q i9. iA_
+i7. i8_ i9q iA. iB_
+i8. i9_ iAq iB. iC_
+i9. iA_ iBq iC. iD_
+i0. i1_ i2q i3_ i4.
+i1. i2_ i3q i4_ i5.
+i2. i3_ i4q i5_ i6.
+i3. i4_ i5q i6_ i7.
+i4. i5_ i6q i7_ i8.
+i5. i6_ i7q i8_ i9.
+i6. i7_ i8q i9_ iA.
+i7. i8_ i9q iA_ iB.
+i8. i9_ iAq iB_ iC.
+i9. iA_ iBq iC_ iD.
+i0. i1_ i2q i3_
+i1. i2_ i3q i4_
+i2. i3_ i4q i5_
+i3. i4_ i5q i6_
+i4. i5_ i6q i7_
+i5. i6_ i7q i8_
+i6. i7_ i8q i9_
+i7. i8_ i9q iA_
+i8. i9_ iAq iB_
+i9. iA_ iBq iC_
+iA. iB_ iCq iD_
+i0. i1_ i2q i3.
+i1. i2_ i3q i4.
+i2. i3_ i4q i5.
+i3. i4_ i5q i6.
+i4. i5_ i6q i7.
+i5. i6_ i7q i8.
+i6. i7_ i8q i9.
+i7. i8_ i9q iA.
+i8. i9_ iAq iB.
+i9. iA_ iBq iC.
+iA. iB_ iCq iD.
+i0_ i1. i2q i3.
+i1_ i2. i3q i4.
+i2_ i3. i4q i5.
+i3_ i4. i5q i6.
+i4_ i5. i6q i7.
+i5_ i6. i7q i8.
+i6_ i7. i8q i9.
+i7_ i8. i9q iA.
+i8_ i9. iAq iB.
+i9_ iA. iBq iC.
+iA_ iB. iCq iD.
+i0_ i1. i2q i3. i4_
+i1_ i2. i3q i4. i5_
+i2_ i3. i4q i5. i6_
+i3_ i4. i5q i6. i7_
+i4_ i5. i6q i7. i8_
+i5_ i6. i7q i8. i9_
+i6_ i7. i8q i9. iA_
+i7_ i8. i9q iA. iB_
+i8_ i9. iAq iB. iC_
+i9_ iA. iBq iC. iD_
+i0_ i1. i2q i3_ i4.
+i1_ i2. i3q i4_ i5.
+i2_ i3. i4q i5_ i6.
+i3_ i4. i5q i6_ i7.
+i4_ i5. i6q i7_ i8.
+i5_ i6. i7q i8_ i9.
+i6_ i7. i8q i9_ iA.
+i7_ i8. i9q iA_ iB.
+i8_ i9. iAq iB_ iC.
+i9_ iA. iBq iC_ iD.
+i0_ i1. i2q i3_
+i1_ i2. i3q i4_
+i2_ i3. i4q i5_
+i3_ i4. i5q i6_
+i4_ i5. i6q i7_
+i5_ i6. i7q i8_
+i6_ i7. i8q i9_
+i7_ i8. i9q iA_
+i8_ i9. iAq iB_
+i9_ iA. iBq iC_
+iA_ iB. iCq iD_
+i0- i1q
+i1- i2q
+i2- i3q
+i3- i4q
+i4- i5q
+i5- i6q
+i6- i7q
+i7- i8q
+i8- i9q
+i9- iAq
+iA- iBq
+iB- iCq
+iC- iDq
+i0q i1-
+i1q i2-
+i2q i3-
+i3q i4-
+i4q i5-
+i5q i6-
+i6q i7-
+i7q i8-
+i8q i9-
+i9q iA-
+iAq iB-
+iBq iC-
+iCq iD-
+i0- i1q i2-
+i1- i2q i3-
+i2- i3q i4-
+i3- i4q i5-
+i4- i5q i6-
+i5- i6q i7-
+i6- i7q i8-
+i7- i8q i9-
+i8- i9q iA-
+i9- iAq iB-
+iA- iBq iC-
+iB- iCq iD-
+i0- i1q i2.
+i1- i2q i3.
+i2- i3q i4.
+i3- i4q i5.
+i4- i5q i6.
+i5- i6q i7.
+i6- i7q i8.
+i7- i8q i9.
+i8- i9q iA.
+i9- iAq iB.
+iA- iBq iC.
+iB- iCq iD.
+i0. i1q i2-
+i1. i2q i3-
+i2. i3q i4-
+i3. i4q i5-
+i4. i5q i6-
+i5. i6q i7-
+i6. i7q i8-
+i7. i8q i9-
+i8. i9q iA-
+i9. iAq iB-
+iA. iBq iC-
+iB. iCq iD-
+i0r
+i1r
+i2r
+i3r
+i4r
+i5r
+i6r
+i7r
+i8r
+i9r
+iAr
+iBr
+iCr
+iDr
+i0_ i1r
+i1_ i2r
+i2_ i3r
+i3_ i4r
+i4_ i5r
+i5_ i6r
+i6_ i7r
+i7_ i8r
+i8_ i9r
+i9_ iAr
+iA_ iBr
+iB_ iCr
+iC_ iDr
+i0r i1_
+i1r i2_
+i2r i3_
+i3r i4_
+i4r i5_
+i5r i6_
+i6r i7_
+i7r i8_
+i8r i9_
+i9r iA_
+iAr iB_
+iBr iC_
+iCr iD_
+i0_ i1r i2_
+i1_ i2r i3_
+i2_ i3r i4_
+i3_ i4r i5_
+i4_ i5r i6_
+i5_ i6r i7_
+i6_ i7r i8_
+i7_ i8r i9_
+i8_ i9r iA_
+i9_ iAr iB_
+iA_ iBr iC_
+iB_ iCr iD_
+i0. i1r
+i1. i2r
+i2. i3r
+i3. i4r
+i4. i5r
+i5. i6r
+i6. i7r
+i7. i8r
+i8. i9r
+i9. iAr
+iA. iBr
+iB. iCr
+iC. iDr
+i0r i1.
+i1r i2.
+i2r i3.
+i3r i4.
+i4r i5.
+i5r i6.
+i6r i7.
+i7r i8.
+i8r i9.
+i9r iA.
+iAr iB.
+iBr iC.
+iCr iD.
+i0. i1r i2.
+i1. i2r i3.
+i2. i3r i4.
+i3. i4r i5.
+i4. i5r i6.
+i5. i6r i7.
+i6. i7r i8.
+i7. i8r i9.
+i8. i9r iA.
+i9. iAr iB.
+iA. iBr iC.
+iB. iCr iD.
+i0. i1_ i2r
+i1. i2_ i3r
+i2. i3_ i4r
+i3. i4_ i5r
+i4. i5_ i6r
+i5. i6_ i7r
+i6. i7_ i8r
+i7. i8_ i9r
+i8. i9_ iAr
+i9. iA_ iBr
+iA. iB_ iCr
+iB. iC_ iDr
+i0_ i1. i2r
+i1_ i2. i3r
+i2_ i3. i4r
+i3_ i4. i5r
+i4_ i5. i6r
+i5_ i6. i7r
+i6_ i7. i8r
+i7_ i8. i9r
+i8_ i9. iAr
+i9_ iA. iBr
+iA_ iB. iCr
+iB_ iC. iDr
+i0. i1_ i2r i3. i4_
+i1. i2_ i3r i4. i5_
+i2. i3_ i4r i5. i6_
+i3. i4_ i5r i6. i7_
+i4. i5_ i6r i7. i8_
+i5. i6_ i7r i8. i9_
+i6. i7_ i8r i9. iA_
+i7. i8_ i9r iA. iB_
+i8. i9_ iAr iB. iC_
+i9. iA_ iBr iC. iD_
+i0. i1_ i2r i3_ i4.
+i1. i2_ i3r i4_ i5.
+i2. i3_ i4r i5_ i6.
+i3. i4_ i5r i6_ i7.
+i4. i5_ i6r i7_ i8.
+i5. i6_ i7r i8_ i9.
+i6. i7_ i8r i9_ iA.
+i7. i8_ i9r iA_ iB.
+i8. i9_ iAr iB_ iC.
+i9. iA_ iBr iC_ iD.
+i0. i1_ i2r i3_
+i1. i2_ i3r i4_
+i2. i3_ i4r i5_
+i3. i4_ i5r i6_
+i4. i5_ i6r i7_
+i5. i6_ i7r i8_
+i6. i7_ i8r i9_
+i7. i8_ i9r iA_
+i8. i9_ iAr iB_
+i9. iA_ iBr iC_
+iA. iB_ iCr iD_
+i0. i1_ i2r i3.
+i1. i2_ i3r i4.
+i2. i3_ i4r i5.
+i3. i4_ i5r i6.
+i4. i5_ i6r i7.
+i5. i6_ i7r i8.
+i6. i7_ i8r i9.
+i7. i8_ i9r iA.
+i8. i9_ iAr iB.
+i9. iA_ iBr iC.
+iA. iB_ iCr iD.
+i0_ i1. i2r i3.
+i1_ i2. i3r i4.
+i2_ i3. i4r i5.
+i3_ i4. i5r i6.
+i4_ i5. i6r i7.
+i5_ i6. i7r i8.
+i6_ i7. i8r i9.
+i7_ i8. i9r iA.
+i8_ i9. iAr iB.
+i9_ iA. iBr iC.
+iA_ iB. iCr iD.
+i0_ i1. i2r i3. i4_
+i1_ i2. i3r i4. i5_
+i2_ i3. i4r i5. i6_
+i3_ i4. i5r i6. i7_
+i4_ i5. i6r i7. i8_
+i5_ i6. i7r i8. i9_
+i6_ i7. i8r i9. iA_
+i7_ i8. i9r iA. iB_
+i8_ i9. iAr iB. iC_
+i9_ iA. iBr iC. iD_
+i0_ i1. i2r i3_ i4.
+i1_ i2. i3r i4_ i5.
+i2_ i3. i4r i5_ i6.
+i3_ i4. i5r i6_ i7.
+i4_ i5. i6r i7_ i8.
+i5_ i6. i7r i8_ i9.
+i6_ i7. i8r i9_ iA.
+i7_ i8. i9r iA_ iB.
+i8_ i9. iAr iB_ iC.
+i9_ iA. iBr iC_ iD.
+i0_ i1. i2r i3_
+i1_ i2. i3r i4_
+i2_ i3. i4r i5_
+i3_ i4. i5r i6_
+i4_ i5. i6r i7_
+i5_ i6. i7r i8_
+i6_ i7. i8r i9_
+i7_ i8. i9r iA_
+i8_ i9. iAr iB_
+i9_ iA. iBr iC_
+iA_ iB. iCr iD_
+i0- i1r
+i1- i2r
+i2- i3r
+i3- i4r
+i4- i5r
+i5- i6r
+i6- i7r
+i7- i8r
+i8- i9r
+i9- iAr
+iA- iBr
+iB- iCr
+iC- iDr
+i0r i1-
+i1r i2-
+i2r i3-
+i3r i4-
+i4r i5-
+i5r i6-
+i6r i7-
+i7r i8-
+i8r i9-
+i9r iA-
+iAr iB-
+iBr iC-
+iCr iD-
+i0- i1r i2-
+i1- i2r i3-
+i2- i3r i4-
+i3- i4r i5-
+i4- i5r i6-
+i5- i6r i7-
+i6- i7r i8-
+i7- i8r i9-
+i8- i9r iA-
+i9- iAr iB-
+iA- iBr iC-
+iB- iCr iD-
+i0- i1r i2.
+i1- i2r i3.
+i2- i3r i4.
+i3- i4r i5.
+i4- i5r i6.
+i5- i6r i7.
+i6- i7r i8.
+i7- i8r i9.
+i8- i9r iA.
+i9- iAr iB.
+iA- iBr iC.
+iB- iCr iD.
+i0. i1r i2-
+i1. i2r i3-
+i2. i3r i4-
+i3. i4r i5-
+i4. i5r i6-
+i5. i6r i7-
+i6. i7r i8-
+i7. i8r i9-
+i8. i9r iA-
+i9. iAr iB-
+iA. iBr iC-
+iB. iCr iD-
+i0s
+i1s
+i2s
+i3s
+i4s
+i5s
+i6s
+i7s
+i8s
+i9s
+iAs
+iBs
+iCs
+iDs
+i0_ i1s
+i1_ i2s
+i2_ i3s
+i3_ i4s
+i4_ i5s
+i5_ i6s
+i6_ i7s
+i7_ i8s
+i8_ i9s
+i9_ iAs
+iA_ iBs
+iB_ iCs
+iC_ iDs
+i0s i1_
+i1s i2_
+i2s i3_
+i3s i4_
+i4s i5_
+i5s i6_
+i6s i7_
+i7s i8_
+i8s i9_
+i9s iA_
+iAs iB_
+iBs iC_
+iCs iD_
+i0_ i1s i2_
+i1_ i2s i3_
+i2_ i3s i4_
+i3_ i4s i5_
+i4_ i5s i6_
+i5_ i6s i7_
+i6_ i7s i8_
+i7_ i8s i9_
+i8_ i9s iA_
+i9_ iAs iB_
+iA_ iBs iC_
+iB_ iCs iD_
+i0. i1s
+i1. i2s
+i2. i3s
+i3. i4s
+i4. i5s
+i5. i6s
+i6. i7s
+i7. i8s
+i8. i9s
+i9. iAs
+iA. iBs
+iB. iCs
+iC. iDs
+i0s i1.
+i1s i2.
+i2s i3.
+i3s i4.
+i4s i5.
+i5s i6.
+i6s i7.
+i7s i8.
+i8s i9.
+i9s iA.
+iAs iB.
+iBs iC.
+iCs iD.
+i0. i1s i2.
+i1. i2s i3.
+i2. i3s i4.
+i3. i4s i5.
+i4. i5s i6.
+i5. i6s i7.
+i6. i7s i8.
+i7. i8s i9.
+i8. i9s iA.
+i9. iAs iB.
+iA. iBs iC.
+iB. iCs iD.
+i0. i1_ i2s
+i1. i2_ i3s
+i2. i3_ i4s
+i3. i4_ i5s
+i4. i5_ i6s
+i5. i6_ i7s
+i6. i7_ i8s
+i7. i8_ i9s
+i8. i9_ iAs
+i9. iA_ iBs
+iA. iB_ iCs
+iB. iC_ iDs
+i0_ i1. i2s
+i1_ i2. i3s
+i2_ i3. i4s
+i3_ i4. i5s
+i4_ i5. i6s
+i5_ i6. i7s
+i6_ i7. i8s
+i7_ i8. i9s
+i8_ i9. iAs
+i9_ iA. iBs
+iA_ iB. iCs
+iB_ iC. iDs
+i0. i1_ i2s i3. i4_
+i1. i2_ i3s i4. i5_
+i2. i3_ i4s i5. i6_
+i3. i4_ i5s i6. i7_
+i4. i5_ i6s i7. i8_
+i5. i6_ i7s i8. i9_
+i6. i7_ i8s i9. iA_
+i7. i8_ i9s iA. iB_
+i8. i9_ iAs iB. iC_
+i9. iA_ iBs iC. iD_
+i0. i1_ i2s i3_ i4.
+i1. i2_ i3s i4_ i5.
+i2. i3_ i4s i5_ i6.
+i3. i4_ i5s i6_ i7.
+i4. i5_ i6s i7_ i8.
+i5. i6_ i7s i8_ i9.
+i6. i7_ i8s i9_ iA.
+i7. i8_ i9s iA_ iB.
+i8. i9_ iAs iB_ iC.
+i9. iA_ iBs iC_ iD.
+i0. i1_ i2s i3_
+i1. i2_ i3s i4_
+i2. i3_ i4s i5_
+i3. i4_ i5s i6_
+i4. i5_ i6s i7_
+i5. i6_ i7s i8_
+i6. i7_ i8s i9_
+i7. i8_ i9s iA_
+i8. i9_ iAs iB_
+i9. iA_ iBs iC_
+iA. iB_ iCs iD_
+i0. i1_ i2s i3.
+i1. i2_ i3s i4.
+i2. i3_ i4s i5.
+i3. i4_ i5s i6.
+i4. i5_ i6s i7.
+i5. i6_ i7s i8.
+i6. i7_ i8s i9.
+i7. i8_ i9s iA.
+i8. i9_ iAs iB.
+i9. iA_ iBs iC.
+iA. iB_ iCs iD.
+i0_ i1. i2s i3.
+i1_ i2. i3s i4.
+i2_ i3. i4s i5.
+i3_ i4. i5s i6.
+i4_ i5. i6s i7.
+i5_ i6. i7s i8.
+i6_ i7. i8s i9.
+i7_ i8. i9s iA.
+i8_ i9. iAs iB.
+i9_ iA. iBs iC.
+iA_ iB. iCs iD.
+i0_ i1. i2s i3. i4_
+i1_ i2. i3s i4. i5_
+i2_ i3. i4s i5. i6_
+i3_ i4. i5s i6. i7_
+i4_ i5. i6s i7. i8_
+i5_ i6. i7s i8. i9_
+i6_ i7. i8s i9. iA_
+i7_ i8. i9s iA. iB_
+i8_ i9. iAs iB. iC_
+i9_ iA. iBs iC. iD_
+i0_ i1. i2s i3_ i4.
+i1_ i2. i3s i4_ i5.
+i2_ i3. i4s i5_ i6.
+i3_ i4. i5s i6_ i7.
+i4_ i5. i6s i7_ i8.
+i5_ i6. i7s i8_ i9.
+i6_ i7. i8s i9_ iA.
+i7_ i8. i9s iA_ iB.
+i8_ i9. iAs iB_ iC.
+i9_ iA. iBs iC_ iD.
+i0_ i1. i2s i3_
+i1_ i2. i3s i4_
+i2_ i3. i4s i5_
+i3_ i4. i5s i6_
+i4_ i5. i6s i7_
+i5_ i6. i7s i8_
+i6_ i7. i8s i9_
+i7_ i8. i9s iA_
+i8_ i9. iAs iB_
+i9_ iA. iBs iC_
+iA_ iB. iCs iD_
+i0- i1s
+i1- i2s
+i2- i3s
+i3- i4s
+i4- i5s
+i5- i6s
+i6- i7s
+i7- i8s
+i8- i9s
+i9- iAs
+iA- iBs
+iB- iCs
+iC- iDs
+i0s i1-
+i1s i2-
+i2s i3-
+i3s i4-
+i4s i5-
+i5s i6-
+i6s i7-
+i7s i8-
+i8s i9-
+i9s iA-
+iAs iB-
+iBs iC-
+iCs iD-
+i0- i1s i2-
+i1- i2s i3-
+i2- i3s i4-
+i3- i4s i5-
+i4- i5s i6-
+i5- i6s i7-
+i6- i7s i8-
+i7- i8s i9-
+i8- i9s iA-
+i9- iAs iB-
+iA- iBs iC-
+iB- iCs iD-
+i0- i1s i2.
+i1- i2s i3.
+i2- i3s i4.
+i3- i4s i5.
+i4- i5s i6.
+i5- i6s i7.
+i6- i7s i8.
+i7- i8s i9.
+i8- i9s iA.
+i9- iAs iB.
+iA- iBs iC.
+iB- iCs iD.
+i0. i1s i2-
+i1. i2s i3-
+i2. i3s i4-
+i3. i4s i5-
+i4. i5s i6-
+i5. i6s i7-
+i6. i7s i8-
+i7. i8s i9-
+i8. i9s iA-
+i9. iAs iB-
+iA. iBs iC-
+iB. iCs iD-
+i0t
+i1t
+i2t
+i3t
+i4t
+i5t
+i6t
+i7t
+i8t
+i9t
+iAt
+iBt
+iCt
+iDt
+i0_ i1t
+i1_ i2t
+i2_ i3t
+i3_ i4t
+i4_ i5t
+i5_ i6t
+i6_ i7t
+i7_ i8t
+i8_ i9t
+i9_ iAt
+iA_ iBt
+iB_ iCt
+iC_ iDt
+i0t i1_
+i1t i2_
+i2t i3_
+i3t i4_
+i4t i5_
+i5t i6_
+i6t i7_
+i7t i8_
+i8t i9_
+i9t iA_
+iAt iB_
+iBt iC_
+iCt iD_
+i0_ i1t i2_
+i1_ i2t i3_
+i2_ i3t i4_
+i3_ i4t i5_
+i4_ i5t i6_
+i5_ i6t i7_
+i6_ i7t i8_
+i7_ i8t i9_
+i8_ i9t iA_
+i9_ iAt iB_
+iA_ iBt iC_
+iB_ iCt iD_
+i0. i1t
+i1. i2t
+i2. i3t
+i3. i4t
+i4. i5t
+i5. i6t
+i6. i7t
+i7. i8t
+i8. i9t
+i9. iAt
+iA. iBt
+iB. iCt
+iC. iDt
+i0t i1.
+i1t i2.
+i2t i3.
+i3t i4.
+i4t i5.
+i5t i6.
+i6t i7.
+i7t i8.
+i8t i9.
+i9t iA.
+iAt iB.
+iBt iC.
+iCt iD.
+i0. i1t i2.
+i1. i2t i3.
+i2. i3t i4.
+i3. i4t i5.
+i4. i5t i6.
+i5. i6t i7.
+i6. i7t i8.
+i7. i8t i9.
+i8. i9t iA.
+i9. iAt iB.
+iA. iBt iC.
+iB. iCt iD.
+i0. i1_ i2t
+i1. i2_ i3t
+i2. i3_ i4t
+i3. i4_ i5t
+i4. i5_ i6t
+i5. i6_ i7t
+i6. i7_ i8t
+i7. i8_ i9t
+i8. i9_ iAt
+i9. iA_ iBt
+iA. iB_ iCt
+iB. iC_ iDt
+i0_ i1. i2t
+i1_ i2. i3t
+i2_ i3. i4t
+i3_ i4. i5t
+i4_ i5. i6t
+i5_ i6. i7t
+i6_ i7. i8t
+i7_ i8. i9t
+i8_ i9. iAt
+i9_ iA. iBt
+iA_ iB. iCt
+iB_ iC. iDt
+i0. i1_ i2t i3. i4_
+i1. i2_ i3t i4. i5_
+i2. i3_ i4t i5. i6_
+i3. i4_ i5t i6. i7_
+i4. i5_ i6t i7. i8_
+i5. i6_ i7t i8. i9_
+i6. i7_ i8t i9. iA_
+i7. i8_ i9t iA. iB_
+i8. i9_ iAt iB. iC_
+i9. iA_ iBt iC. iD_
+i0. i1_ i2t i3_ i4.
+i1. i2_ i3t i4_ i5.
+i2. i3_ i4t i5_ i6.
+i3. i4_ i5t i6_ i7.
+i4. i5_ i6t i7_ i8.
+i5. i6_ i7t i8_ i9.
+i6. i7_ i8t i9_ iA.
+i7. i8_ i9t iA_ iB.
+i8. i9_ iAt iB_ iC.
+i9. iA_ iBt iC_ iD.
+i0. i1_ i2t i3_
+i1. i2_ i3t i4_
+i2. i3_ i4t i5_
+i3. i4_ i5t i6_
+i4. i5_ i6t i7_
+i5. i6_ i7t i8_
+i6. i7_ i8t i9_
+i7. i8_ i9t iA_
+i8. i9_ iAt iB_
+i9. iA_ iBt iC_
+iA. iB_ iCt iD_
+i0. i1_ i2t i3.
+i1. i2_ i3t i4.
+i2. i3_ i4t i5.
+i3. i4_ i5t i6.
+i4. i5_ i6t i7.
+i5. i6_ i7t i8.
+i6. i7_ i8t i9.
+i7. i8_ i9t iA.
+i8. i9_ iAt iB.
+i9. iA_ iBt iC.
+iA. iB_ iCt iD.
+i0_ i1. i2t i3.
+i1_ i2. i3t i4.
+i2_ i3. i4t i5.
+i3_ i4. i5t i6.
+i4_ i5. i6t i7.
+i5_ i6. i7t i8.
+i6_ i7. i8t i9.
+i7_ i8. i9t iA.
+i8_ i9. iAt iB.
+i9_ iA. iBt iC.
+iA_ iB. iCt iD.
+i0_ i1. i2t i3. i4_
+i1_ i2. i3t i4. i5_
+i2_ i3. i4t i5. i6_
+i3_ i4. i5t i6. i7_
+i4_ i5. i6t i7. i8_
+i5_ i6. i7t i8. i9_
+i6_ i7. i8t i9. iA_
+i7_ i8. i9t iA. iB_
+i8_ i9. iAt iB. iC_
+i9_ iA. iBt iC. iD_
+i0_ i1. i2t i3_ i4.
+i1_ i2. i3t i4_ i5.
+i2_ i3. i4t i5_ i6.
+i3_ i4. i5t i6_ i7.
+i4_ i5. i6t i7_ i8.
+i5_ i6. i7t i8_ i9.
+i6_ i7. i8t i9_ iA.
+i7_ i8. i9t iA_ iB.
+i8_ i9. iAt iB_ iC.
+i9_ iA. iBt iC_ iD.
+i0_ i1. i2t i3_
+i1_ i2. i3t i4_
+i2_ i3. i4t i5_
+i3_ i4. i5t i6_
+i4_ i5. i6t i7_
+i5_ i6. i7t i8_
+i6_ i7. i8t i9_
+i7_ i8. i9t iA_
+i8_ i9. iAt iB_
+i9_ iA. iBt iC_
+iA_ iB. iCt iD_
+i0- i1t
+i1- i2t
+i2- i3t
+i3- i4t
+i4- i5t
+i5- i6t
+i6- i7t
+i7- i8t
+i8- i9t
+i9- iAt
+iA- iBt
+iB- iCt
+iC- iDt
+i0t i1-
+i1t i2-
+i2t i3-
+i3t i4-
+i4t i5-
+i5t i6-
+i6t i7-
+i7t i8-
+i8t i9-
+i9t iA-
+iAt iB-
+iBt iC-
+iCt iD-
+i0- i1t i2-
+i1- i2t i3-
+i2- i3t i4-
+i3- i4t i5-
+i4- i5t i6-
+i5- i6t i7-
+i6- i7t i8-
+i7- i8t i9-
+i8- i9t iA-
+i9- iAt iB-
+iA- iBt iC-
+iB- iCt iD-
+i0- i1t i2.
+i1- i2t i3.
+i2- i3t i4.
+i3- i4t i5.
+i4- i5t i6.
+i5- i6t i7.
+i6- i7t i8.
+i7- i8t i9.
+i8- i9t iA.
+i9- iAt iB.
+iA- iBt iC.
+iB- iCt iD.
+i0. i1t i2-
+i1. i2t i3-
+i2. i3t i4-
+i3. i4t i5-
+i4. i5t i6-
+i5. i6t i7-
+i6. i7t i8-
+i7. i8t i9-
+i8. i9t iA-
+i9. iAt iB-
+iA. iBt iC-
+iB. iCt iD-
+i0u
+i1u
+i2u
+i3u
+i4u
+i5u
+i6u
+i7u
+i8u
+i9u
+iAu
+iBu
+iCu
+iDu
+i0_ i1u
+i1_ i2u
+i2_ i3u
+i3_ i4u
+i4_ i5u
+i5_ i6u
+i6_ i7u
+i7_ i8u
+i8_ i9u
+i9_ iAu
+iA_ iBu
+iB_ iCu
+iC_ iDu
+i0u i1_
+i1u i2_
+i2u i3_
+i3u i4_
+i4u i5_
+i5u i6_
+i6u i7_
+i7u i8_
+i8u i9_
+i9u iA_
+iAu iB_
+iBu iC_
+iCu iD_
+i0_ i1u i2_
+i1_ i2u i3_
+i2_ i3u i4_
+i3_ i4u i5_
+i4_ i5u i6_
+i5_ i6u i7_
+i6_ i7u i8_
+i7_ i8u i9_
+i8_ i9u iA_
+i9_ iAu iB_
+iA_ iBu iC_
+iB_ iCu iD_
+i0. i1u
+i1. i2u
+i2. i3u
+i3. i4u
+i4. i5u
+i5. i6u
+i6. i7u
+i7. i8u
+i8. i9u
+i9. iAu
+iA. iBu
+iB. iCu
+iC. iDu
+i0u i1.
+i1u i2.
+i2u i3.
+i3u i4.
+i4u i5.
+i5u i6.
+i6u i7.
+i7u i8.
+i8u i9.
+i9u iA.
+iAu iB.
+iBu iC.
+iCu iD.
+i0. i1u i2.
+i1. i2u i3.
+i2. i3u i4.
+i3. i4u i5.
+i4. i5u i6.
+i5. i6u i7.
+i6. i7u i8.
+i7. i8u i9.
+i8. i9u iA.
+i9. iAu iB.
+iA. iBu iC.
+iB. iCu iD.
+i0. i1_ i2u
+i1. i2_ i3u
+i2. i3_ i4u
+i3. i4_ i5u
+i4. i5_ i6u
+i5. i6_ i7u
+i6. i7_ i8u
+i7. i8_ i9u
+i8. i9_ iAu
+i9. iA_ iBu
+iA. iB_ iCu
+iB. iC_ iDu
+i0_ i1. i2u
+i1_ i2. i3u
+i2_ i3. i4u
+i3_ i4. i5u
+i4_ i5. i6u
+i5_ i6. i7u
+i6_ i7. i8u
+i7_ i8. i9u
+i8_ i9. iAu
+i9_ iA. iBu
+iA_ iB. iCu
+iB_ iC. iDu
+i0. i1_ i2u i3. i4_
+i1. i2_ i3u i4. i5_
+i2. i3_ i4u i5. i6_
+i3. i4_ i5u i6. i7_
+i4. i5_ i6u i7. i8_
+i5. i6_ i7u i8. i9_
+i6. i7_ i8u i9. iA_
+i7. i8_ i9u iA. iB_
+i8. i9_ iAu iB. iC_
+i9. iA_ iBu iC. iD_
+i0. i1_ i2u i3_ i4.
+i1. i2_ i3u i4_ i5.
+i2. i3_ i4u i5_ i6.
+i3. i4_ i5u i6_ i7.
+i4. i5_ i6u i7_ i8.
+i5. i6_ i7u i8_ i9.
+i6. i7_ i8u i9_ iA.
+i7. i8_ i9u iA_ iB.
+i8. i9_ iAu iB_ iC.
+i9. iA_ iBu iC_ iD.
+i0. i1_ i2u i3_
+i1. i2_ i3u i4_
+i2. i3_ i4u i5_
+i3. i4_ i5u i6_
+i4. i5_ i6u i7_
+i5. i6_ i7u i8_
+i6. i7_ i8u i9_
+i7. i8_ i9u iA_
+i8. i9_ iAu iB_
+i9. iA_ iBu iC_
+iA. iB_ iCu iD_
+i0. i1_ i2u i3.
+i1. i2_ i3u i4.
+i2. i3_ i4u i5.
+i3. i4_ i5u i6.
+i4. i5_ i6u i7.
+i5. i6_ i7u i8.
+i6. i7_ i8u i9.
+i7. i8_ i9u iA.
+i8. i9_ iAu iB.
+i9. iA_ iBu iC.
+iA. iB_ iCu iD.
+i0_ i1. i2u i3.
+i1_ i2. i3u i4.
+i2_ i3. i4u i5.
+i3_ i4. i5u i6.
+i4_ i5. i6u i7.
+i5_ i6. i7u i8.
+i6_ i7. i8u i9.
+i7_ i8. i9u iA.
+i8_ i9. iAu iB.
+i9_ iA. iBu iC.
+iA_ iB. iCu iD.
+i0_ i1. i2u i3. i4_
+i1_ i2. i3u i4. i5_
+i2_ i3. i4u i5. i6_
+i3_ i4. i5u i6. i7_
+i4_ i5. i6u i7. i8_
+i5_ i6. i7u i8. i9_
+i6_ i7. i8u i9. iA_
+i7_ i8. i9u iA. iB_
+i8_ i9. iAu iB. iC_
+i9_ iA. iBu iC. iD_
+i0_ i1. i2u i3_ i4.
+i1_ i2. i3u i4_ i5.
+i2_ i3. i4u i5_ i6.
+i3_ i4. i5u i6_ i7.
+i4_ i5. i6u i7_ i8.
+i5_ i6. i7u i8_ i9.
+i6_ i7. i8u i9_ iA.
+i7_ i8. i9u iA_ iB.
+i8_ i9. iAu iB_ iC.
+i9_ iA. iBu iC_ iD.
+i0_ i1. i2u i3_
+i1_ i2. i3u i4_
+i2_ i3. i4u i5_
+i3_ i4. i5u i6_
+i4_ i5. i6u i7_
+i5_ i6. i7u i8_
+i6_ i7. i8u i9_
+i7_ i8. i9u iA_
+i8_ i9. iAu iB_
+i9_ iA. iBu iC_
+iA_ iB. iCu iD_
+i0- i1u
+i1- i2u
+i2- i3u
+i3- i4u
+i4- i5u
+i5- i6u
+i6- i7u
+i7- i8u
+i8- i9u
+i9- iAu
+iA- iBu
+iB- iCu
+iC- iDu
+i0u i1-
+i1u i2-
+i2u i3-
+i3u i4-
+i4u i5-
+i5u i6-
+i6u i7-
+i7u i8-
+i8u i9-
+i9u iA-
+iAu iB-
+iBu iC-
+iCu iD-
+i0- i1u i2-
+i1- i2u i3-
+i2- i3u i4-
+i3- i4u i5-
+i4- i5u i6-
+i5- i6u i7-
+i6- i7u i8-
+i7- i8u i9-
+i8- i9u iA-
+i9- iAu iB-
+iA- iBu iC-
+iB- iCu iD-
+i0- i1u i2.
+i1- i2u i3.
+i2- i3u i4.
+i3- i4u i5.
+i4- i5u i6.
+i5- i6u i7.
+i6- i7u i8.
+i7- i8u i9.
+i8- i9u iA.
+i9- iAu iB.
+iA- iBu iC.
+iB- iCu iD.
+i0. i1u i2-
+i1. i2u i3-
+i2. i3u i4-
+i3. i4u i5-
+i4. i5u i6-
+i5. i6u i7-
+i6. i7u i8-
+i7. i8u i9-
+i8. i9u iA-
+i9. iAu iB-
+iA. iBu iC-
+iB. iCu iD-
+i0v
+i1v
+i2v
+i3v
+i4v
+i5v
+i6v
+i7v
+i8v
+i9v
+iAv
+iBv
+iCv
+iDv
+i0_ i1v
+i1_ i2v
+i2_ i3v
+i3_ i4v
+i4_ i5v
+i5_ i6v
+i6_ i7v
+i7_ i8v
+i8_ i9v
+i9_ iAv
+iA_ iBv
+iB_ iCv
+iC_ iDv
+i0v i1_
+i1v i2_
+i2v i3_
+i3v i4_
+i4v i5_
+i5v i6_
+i6v i7_
+i7v i8_
+i8v i9_
+i9v iA_
+iAv iB_
+iBv iC_
+iCv iD_
+i0_ i1v i2_
+i1_ i2v i3_
+i2_ i3v i4_
+i3_ i4v i5_
+i4_ i5v i6_
+i5_ i6v i7_
+i6_ i7v i8_
+i7_ i8v i9_
+i8_ i9v iA_
+i9_ iAv iB_
+iA_ iBv iC_
+iB_ iCv iD_
+i0. i1v
+i1. i2v
+i2. i3v
+i3. i4v
+i4. i5v
+i5. i6v
+i6. i7v
+i7. i8v
+i8. i9v
+i9. iAv
+iA. iBv
+iB. iCv
+iC. iDv
+i0v i1.
+i1v i2.
+i2v i3.
+i3v i4.
+i4v i5.
+i5v i6.
+i6v i7.
+i7v i8.
+i8v i9.
+i9v iA.
+iAv iB.
+iBv iC.
+iCv iD.
+i0. i1v i2.
+i1. i2v i3.
+i2. i3v i4.
+i3. i4v i5.
+i4. i5v i6.
+i5. i6v i7.
+i6. i7v i8.
+i7. i8v i9.
+i8. i9v iA.
+i9. iAv iB.
+iA. iBv iC.
+iB. iCv iD.
+i0. i1_ i2v
+i1. i2_ i3v
+i2. i3_ i4v
+i3. i4_ i5v
+i4. i5_ i6v
+i5. i6_ i7v
+i6. i7_ i8v
+i7. i8_ i9v
+i8. i9_ iAv
+i9. iA_ iBv
+iA. iB_ iCv
+iB. iC_ iDv
+i0_ i1. i2v
+i1_ i2. i3v
+i2_ i3. i4v
+i3_ i4. i5v
+i4_ i5. i6v
+i5_ i6. i7v
+i6_ i7. i8v
+i7_ i8. i9v
+i8_ i9. iAv
+i9_ iA. iBv
+iA_ iB. iCv
+iB_ iC. iDv
+i0. i1_ i2v i3. i4_
+i1. i2_ i3v i4. i5_
+i2. i3_ i4v i5. i6_
+i3. i4_ i5v i6. i7_
+i4. i5_ i6v i7. i8_
+i5. i6_ i7v i8. i9_
+i6. i7_ i8v i9. iA_
+i7. i8_ i9v iA. iB_
+i8. i9_ iAv iB. iC_
+i9. iA_ iBv iC. iD_
+i0. i1_ i2v i3_ i4.
+i1. i2_ i3v i4_ i5.
+i2. i3_ i4v i5_ i6.
+i3. i4_ i5v i6_ i7.
+i4. i5_ i6v i7_ i8.
+i5. i6_ i7v i8_ i9.
+i6. i7_ i8v i9_ iA.
+i7. i8_ i9v iA_ iB.
+i8. i9_ iAv iB_ iC.
+i9. iA_ iBv iC_ iD.
+i0. i1_ i2v i3_
+i1. i2_ i3v i4_
+i2. i3_ i4v i5_
+i3. i4_ i5v i6_
+i4. i5_ i6v i7_
+i5. i6_ i7v i8_
+i6. i7_ i8v i9_
+i7. i8_ i9v iA_
+i8. i9_ iAv iB_
+i9. iA_ iBv iC_
+iA. iB_ iCv iD_
+i0. i1_ i2v i3.
+i1. i2_ i3v i4.
+i2. i3_ i4v i5.
+i3. i4_ i5v i6.
+i4. i5_ i6v i7.
+i5. i6_ i7v i8.
+i6. i7_ i8v i9.
+i7. i8_ i9v iA.
+i8. i9_ iAv iB.
+i9. iA_ iBv iC.
+iA. iB_ iCv iD.
+i0_ i1. i2v i3.
+i1_ i2. i3v i4.
+i2_ i3. i4v i5.
+i3_ i4. i5v i6.
+i4_ i5. i6v i7.
+i5_ i6. i7v i8.
+i6_ i7. i8v i9.
+i7_ i8. i9v iA.
+i8_ i9. iAv iB.
+i9_ iA. iBv iC.
+iA_ iB. iCv iD.
+i0_ i1. i2v i3. i4_
+i1_ i2. i3v i4. i5_
+i2_ i3. i4v i5. i6_
+i3_ i4. i5v i6. i7_
+i4_ i5. i6v i7. i8_
+i5_ i6. i7v i8. i9_
+i6_ i7. i8v i9. iA_
+i7_ i8. i9v iA. iB_
+i8_ i9. iAv iB. iC_
+i9_ iA. iBv iC. iD_
+i0_ i1. i2v i3_ i4.
+i1_ i2. i3v i4_ i5.
+i2_ i3. i4v i5_ i6.
+i3_ i4. i5v i6_ i7.
+i4_ i5. i6v i7_ i8.
+i5_ i6. i7v i8_ i9.
+i6_ i7. i8v i9_ iA.
+i7_ i8. i9v iA_ iB.
+i8_ i9. iAv iB_ iC.
+i9_ iA. iBv iC_ iD.
+i0_ i1. i2v i3_
+i1_ i2. i3v i4_
+i2_ i3. i4v i5_
+i3_ i4. i5v i6_
+i4_ i5. i6v i7_
+i5_ i6. i7v i8_
+i6_ i7. i8v i9_
+i7_ i8. i9v iA_
+i8_ i9. iAv iB_
+i9_ iA. iBv iC_
+iA_ iB. iCv iD_
+i0- i1v
+i1- i2v
+i2- i3v
+i3- i4v
+i4- i5v
+i5- i6v
+i6- i7v
+i7- i8v
+i8- i9v
+i9- iAv
+iA- iBv
+iB- iCv
+iC- iDv
+i0v i1-
+i1v i2-
+i2v i3-
+i3v i4-
+i4v i5-
+i5v i6-
+i6v i7-
+i7v i8-
+i8v i9-
+i9v iA-
+iAv iB-
+iBv iC-
+iCv iD-
+i0- i1v i2-
+i1- i2v i3-
+i2- i3v i4-
+i3- i4v i5-
+i4- i5v i6-
+i5- i6v i7-
+i6- i7v i8-
+i7- i8v i9-
+i8- i9v iA-
+i9- iAv iB-
+iA- iBv iC-
+iB- iCv iD-
+i0- i1v i2.
+i1- i2v i3.
+i2- i3v i4.
+i3- i4v i5.
+i4- i5v i6.
+i5- i6v i7.
+i6- i7v i8.
+i7- i8v i9.
+i8- i9v iA.
+i9- iAv iB.
+iA- iBv iC.
+iB- iCv iD.
+i0. i1v i2-
+i1. i2v i3-
+i2. i3v i4-
+i3. i4v i5-
+i4. i5v i6-
+i5. i6v i7-
+i6. i7v i8-
+i7. i8v i9-
+i8. i9v iA-
+i9. iAv iB-
+iA. iBv iC-
+iB. iCv iD-
+i0w
+i1w
+i2w
+i3w
+i4w
+i5w
+i6w
+i7w
+i8w
+i9w
+iAw
+iBw
+iCw
+iDw
+i0_ i1w
+i1_ i2w
+i2_ i3w
+i3_ i4w
+i4_ i5w
+i5_ i6w
+i6_ i7w
+i7_ i8w
+i8_ i9w
+i9_ iAw
+iA_ iBw
+iB_ iCw
+iC_ iDw
+i0w i1_
+i1w i2_
+i2w i3_
+i3w i4_
+i4w i5_
+i5w i6_
+i6w i7_
+i7w i8_
+i8w i9_
+i9w iA_
+iAw iB_
+iBw iC_
+iCw iD_
+i0_ i1w i2_
+i1_ i2w i3_
+i2_ i3w i4_
+i3_ i4w i5_
+i4_ i5w i6_
+i5_ i6w i7_
+i6_ i7w i8_
+i7_ i8w i9_
+i8_ i9w iA_
+i9_ iAw iB_
+iA_ iBw iC_
+iB_ iCw iD_
+i0. i1w
+i1. i2w
+i2. i3w
+i3. i4w
+i4. i5w
+i5. i6w
+i6. i7w
+i7. i8w
+i8. i9w
+i9. iAw
+iA. iBw
+iB. iCw
+iC. iDw
+i0w i1.
+i1w i2.
+i2w i3.
+i3w i4.
+i4w i5.
+i5w i6.
+i6w i7.
+i7w i8.
+i8w i9.
+i9w iA.
+iAw iB.
+iBw iC.
+iCw iD.
+i0. i1w i2.
+i1. i2w i3.
+i2. i3w i4.
+i3. i4w i5.
+i4. i5w i6.
+i5. i6w i7.
+i6. i7w i8.
+i7. i8w i9.
+i8. i9w iA.
+i9. iAw iB.
+iA. iBw iC.
+iB. iCw iD.
+i0. i1_ i2w
+i1. i2_ i3w
+i2. i3_ i4w
+i3. i4_ i5w
+i4. i5_ i6w
+i5. i6_ i7w
+i6. i7_ i8w
+i7. i8_ i9w
+i8. i9_ iAw
+i9. iA_ iBw
+iA. iB_ iCw
+iB. iC_ iDw
+i0_ i1. i2w
+i1_ i2. i3w
+i2_ i3. i4w
+i3_ i4. i5w
+i4_ i5. i6w
+i5_ i6. i7w
+i6_ i7. i8w
+i7_ i8. i9w
+i8_ i9. iAw
+i9_ iA. iBw
+iA_ iB. iCw
+iB_ iC. iDw
+i0. i1_ i2w i3. i4_
+i1. i2_ i3w i4. i5_
+i2. i3_ i4w i5. i6_
+i3. i4_ i5w i6. i7_
+i4. i5_ i6w i7. i8_
+i5. i6_ i7w i8. i9_
+i6. i7_ i8w i9. iA_
+i7. i8_ i9w iA. iB_
+i8. i9_ iAw iB. iC_
+i9. iA_ iBw iC. iD_
+i0. i1_ i2w i3_ i4.
+i1. i2_ i3w i4_ i5.
+i2. i3_ i4w i5_ i6.
+i3. i4_ i5w i6_ i7.
+i4. i5_ i6w i7_ i8.
+i5. i6_ i7w i8_ i9.
+i6. i7_ i8w i9_ iA.
+i7. i8_ i9w iA_ iB.
+i8. i9_ iAw iB_ iC.
+i9. iA_ iBw iC_ iD.
+i0. i1_ i2w i3_
+i1. i2_ i3w i4_
+i2. i3_ i4w i5_
+i3. i4_ i5w i6_
+i4. i5_ i6w i7_
+i5. i6_ i7w i8_
+i6. i7_ i8w i9_
+i7. i8_ i9w iA_
+i8. i9_ iAw iB_
+i9. iA_ iBw iC_
+iA. iB_ iCw iD_
+i0. i1_ i2w i3.
+i1. i2_ i3w i4.
+i2. i3_ i4w i5.
+i3. i4_ i5w i6.
+i4. i5_ i6w i7.
+i5. i6_ i7w i8.
+i6. i7_ i8w i9.
+i7. i8_ i9w iA.
+i8. i9_ iAw iB.
+i9. iA_ iBw iC.
+iA. iB_ iCw iD.
+i0_ i1. i2w i3.
+i1_ i2. i3w i4.
+i2_ i3. i4w i5.
+i3_ i4. i5w i6.
+i4_ i5. i6w i7.
+i5_ i6. i7w i8.
+i6_ i7. i8w i9.
+i7_ i8. i9w iA.
+i8_ i9. iAw iB.
+i9_ iA. iBw iC.
+iA_ iB. iCw iD.
+i0_ i1. i2w i3. i4_
+i1_ i2. i3w i4. i5_
+i2_ i3. i4w i5. i6_
+i3_ i4. i5w i6. i7_
+i4_ i5. i6w i7. i8_
+i5_ i6. i7w i8. i9_
+i6_ i7. i8w i9. iA_
+i7_ i8. i9w iA. iB_
+i8_ i9. iAw iB. iC_
+i9_ iA. iBw iC. iD_
+i0_ i1. i2w i3_ i4.
+i1_ i2. i3w i4_ i5.
+i2_ i3. i4w i5_ i6.
+i3_ i4. i5w i6_ i7.
+i4_ i5. i6w i7_ i8.
+i5_ i6. i7w i8_ i9.
+i6_ i7. i8w i9_ iA.
+i7_ i8. i9w iA_ iB.
+i8_ i9. iAw iB_ iC.
+i9_ iA. iBw iC_ iD.
+i0_ i1. i2w i3_
+i1_ i2. i3w i4_
+i2_ i3. i4w i5_
+i3_ i4. i5w i6_
+i4_ i5. i6w i7_
+i5_ i6. i7w i8_
+i6_ i7. i8w i9_
+i7_ i8. i9w iA_
+i8_ i9. iAw iB_
+i9_ iA. iBw iC_
+iA_ iB. iCw iD_
+i0- i1w
+i1- i2w
+i2- i3w
+i3- i4w
+i4- i5w
+i5- i6w
+i6- i7w
+i7- i8w
+i8- i9w
+i9- iAw
+iA- iBw
+iB- iCw
+iC- iDw
+i0w i1-
+i1w i2-
+i2w i3-
+i3w i4-
+i4w i5-
+i5w i6-
+i6w i7-
+i7w i8-
+i8w i9-
+i9w iA-
+iAw iB-
+iBw iC-
+iCw iD-
+i0- i1w i2-
+i1- i2w i3-
+i2- i3w i4-
+i3- i4w i5-
+i4- i5w i6-
+i5- i6w i7-
+i6- i7w i8-
+i7- i8w i9-
+i8- i9w iA-
+i9- iAw iB-
+iA- iBw iC-
+iB- iCw iD-
+i0- i1w i2.
+i1- i2w i3.
+i2- i3w i4.
+i3- i4w i5.
+i4- i5w i6.
+i5- i6w i7.
+i6- i7w i8.
+i7- i8w i9.
+i8- i9w iA.
+i9- iAw iB.
+iA- iBw iC.
+iB- iCw iD.
+i0. i1w i2-
+i1. i2w i3-
+i2. i3w i4-
+i3. i4w i5-
+i4. i5w i6-
+i5. i6w i7-
+i6. i7w i8-
+i7. i8w i9-
+i8. i9w iA-
+i9. iAw iB-
+iA. iBw iC-
+iB. iCw iD-
+i0x
+i1x
+i2x
+i3x
+i4x
+i5x
+i6x
+i7x
+i8x
+i9x
+iAx
+iBx
+iCx
+iDx
+i0_ i1x
+i1_ i2x
+i2_ i3x
+i3_ i4x
+i4_ i5x
+i5_ i6x
+i6_ i7x
+i7_ i8x
+i8_ i9x
+i9_ iAx
+iA_ iBx
+iB_ iCx
+iC_ iDx
+i0x i1_
+i1x i2_
+i2x i3_
+i3x i4_
+i4x i5_
+i5x i6_
+i6x i7_
+i7x i8_
+i8x i9_
+i9x iA_
+iAx iB_
+iBx iC_
+iCx iD_
+i0_ i1x i2_
+i1_ i2x i3_
+i2_ i3x i4_
+i3_ i4x i5_
+i4_ i5x i6_
+i5_ i6x i7_
+i6_ i7x i8_
+i7_ i8x i9_
+i8_ i9x iA_
+i9_ iAx iB_
+iA_ iBx iC_
+iB_ iCx iD_
+i0. i1x
+i1. i2x
+i2. i3x
+i3. i4x
+i4. i5x
+i5. i6x
+i6. i7x
+i7. i8x
+i8. i9x
+i9. iAx
+iA. iBx
+iB. iCx
+iC. iDx
+i0x i1.
+i1x i2.
+i2x i3.
+i3x i4.
+i4x i5.
+i5x i6.
+i6x i7.
+i7x i8.
+i8x i9.
+i9x iA.
+iAx iB.
+iBx iC.
+iCx iD.
+i0. i1x i2.
+i1. i2x i3.
+i2. i3x i4.
+i3. i4x i5.
+i4. i5x i6.
+i5. i6x i7.
+i6. i7x i8.
+i7. i8x i9.
+i8. i9x iA.
+i9. iAx iB.
+iA. iBx iC.
+iB. iCx iD.
+i0. i1_ i2x
+i1. i2_ i3x
+i2. i3_ i4x
+i3. i4_ i5x
+i4. i5_ i6x
+i5. i6_ i7x
+i6. i7_ i8x
+i7. i8_ i9x
+i8. i9_ iAx
+i9. iA_ iBx
+iA. iB_ iCx
+iB. iC_ iDx
+i0_ i1. i2x
+i1_ i2. i3x
+i2_ i3. i4x
+i3_ i4. i5x
+i4_ i5. i6x
+i5_ i6. i7x
+i6_ i7. i8x
+i7_ i8. i9x
+i8_ i9. iAx
+i9_ iA. iBx
+iA_ iB. iCx
+iB_ iC. iDx
+i0. i1_ i2x i3. i4_
+i1. i2_ i3x i4. i5_
+i2. i3_ i4x i5. i6_
+i3. i4_ i5x i6. i7_
+i4. i5_ i6x i7. i8_
+i5. i6_ i7x i8. i9_
+i6. i7_ i8x i9. iA_
+i7. i8_ i9x iA. iB_
+i8. i9_ iAx iB. iC_
+i9. iA_ iBx iC. iD_
+i0. i1_ i2x i3_ i4.
+i1. i2_ i3x i4_ i5.
+i2. i3_ i4x i5_ i6.
+i3. i4_ i5x i6_ i7.
+i4. i5_ i6x i7_ i8.
+i5. i6_ i7x i8_ i9.
+i6. i7_ i8x i9_ iA.
+i7. i8_ i9x iA_ iB.
+i8. i9_ iAx iB_ iC.
+i9. iA_ iBx iC_ iD.
+i0. i1_ i2x i3_
+i1. i2_ i3x i4_
+i2. i3_ i4x i5_
+i3. i4_ i5x i6_
+i4. i5_ i6x i7_
+i5. i6_ i7x i8_
+i6. i7_ i8x i9_
+i7. i8_ i9x iA_
+i8. i9_ iAx iB_
+i9. iA_ iBx iC_
+iA. iB_ iCx iD_
+i0. i1_ i2x i3.
+i1. i2_ i3x i4.
+i2. i3_ i4x i5.
+i3. i4_ i5x i6.
+i4. i5_ i6x i7.
+i5. i6_ i7x i8.
+i6. i7_ i8x i9.
+i7. i8_ i9x iA.
+i8. i9_ iAx iB.
+i9. iA_ iBx iC.
+iA. iB_ iCx iD.
+i0_ i1. i2x i3.
+i1_ i2. i3x i4.
+i2_ i3. i4x i5.
+i3_ i4. i5x i6.
+i4_ i5. i6x i7.
+i5_ i6. i7x i8.
+i6_ i7. i8x i9.
+i7_ i8. i9x iA.
+i8_ i9. iAx iB.
+i9_ iA. iBx iC.
+iA_ iB. iCx iD.
+i0_ i1. i2x i3. i4_
+i1_ i2. i3x i4. i5_
+i2_ i3. i4x i5. i6_
+i3_ i4. i5x i6. i7_
+i4_ i5. i6x i7. i8_
+i5_ i6. i7x i8. i9_
+i6_ i7. i8x i9. iA_
+i7_ i8. i9x iA. iB_
+i8_ i9. iAx iB. iC_
+i9_ iA. iBx iC. iD_
+i0_ i1. i2x i3_ i4.
+i1_ i2. i3x i4_ i5.
+i2_ i3. i4x i5_ i6.
+i3_ i4. i5x i6_ i7.
+i4_ i5. i6x i7_ i8.
+i5_ i6. i7x i8_ i9.
+i6_ i7. i8x i9_ iA.
+i7_ i8. i9x iA_ iB.
+i8_ i9. iAx iB_ iC.
+i9_ iA. iBx iC_ iD.
+i0_ i1. i2x i3_
+i1_ i2. i3x i4_
+i2_ i3. i4x i5_
+i3_ i4. i5x i6_
+i4_ i5. i6x i7_
+i5_ i6. i7x i8_
+i6_ i7. i8x i9_
+i7_ i8. i9x iA_
+i8_ i9. iAx iB_
+i9_ iA. iBx iC_
+iA_ iB. iCx iD_
+i0- i1x
+i1- i2x
+i2- i3x
+i3- i4x
+i4- i5x
+i5- i6x
+i6- i7x
+i7- i8x
+i8- i9x
+i9- iAx
+iA- iBx
+iB- iCx
+iC- iDx
+i0x i1-
+i1x i2-
+i2x i3-
+i3x i4-
+i4x i5-
+i5x i6-
+i6x i7-
+i7x i8-
+i8x i9-
+i9x iA-
+iAx iB-
+iBx iC-
+iCx iD-
+i0- i1x i2-
+i1- i2x i3-
+i2- i3x i4-
+i3- i4x i5-
+i4- i5x i6-
+i5- i6x i7-
+i6- i7x i8-
+i7- i8x i9-
+i8- i9x iA-
+i9- iAx iB-
+iA- iBx iC-
+iB- iCx iD-
+i0- i1x i2.
+i1- i2x i3.
+i2- i3x i4.
+i3- i4x i5.
+i4- i5x i6.
+i5- i6x i7.
+i6- i7x i8.
+i7- i8x i9.
+i8- i9x iA.
+i9- iAx iB.
+iA- iBx iC.
+iB- iCx iD.
+i0. i1x i2-
+i1. i2x i3-
+i2. i3x i4-
+i3. i4x i5-
+i4. i5x i6-
+i5. i6x i7-
+i6. i7x i8-
+i7. i8x i9-
+i8. i9x iA-
+i9. iAx iB-
+iA. iBx iC-
+iB. iCx iD-
+i0y
+i1y
+i2y
+i3y
+i4y
+i5y
+i6y
+i7y
+i8y
+i9y
+iAy
+iBy
+iCy
+iDy
+i0_ i1y
+i1_ i2y
+i2_ i3y
+i3_ i4y
+i4_ i5y
+i5_ i6y
+i6_ i7y
+i7_ i8y
+i8_ i9y
+i9_ iAy
+iA_ iBy
+iB_ iCy
+iC_ iDy
+i0y i1_
+i1y i2_
+i2y i3_
+i3y i4_
+i4y i5_
+i5y i6_
+i6y i7_
+i7y i8_
+i8y i9_
+i9y iA_
+iAy iB_
+iBy iC_
+iCy iD_
+i0_ i1y i2_
+i1_ i2y i3_
+i2_ i3y i4_
+i3_ i4y i5_
+i4_ i5y i6_
+i5_ i6y i7_
+i6_ i7y i8_
+i7_ i8y i9_
+i8_ i9y iA_
+i9_ iAy iB_
+iA_ iBy iC_
+iB_ iCy iD_
+i0. i1y
+i1. i2y
+i2. i3y
+i3. i4y
+i4. i5y
+i5. i6y
+i6. i7y
+i7. i8y
+i8. i9y
+i9. iAy
+iA. iBy
+iB. iCy
+iC. iDy
+i0y i1.
+i1y i2.
+i2y i3.
+i3y i4.
+i4y i5.
+i5y i6.
+i6y i7.
+i7y i8.
+i8y i9.
+i9y iA.
+iAy iB.
+iBy iC.
+iCy iD.
+i0. i1y i2.
+i1. i2y i3.
+i2. i3y i4.
+i3. i4y i5.
+i4. i5y i6.
+i5. i6y i7.
+i6. i7y i8.
+i7. i8y i9.
+i8. i9y iA.
+i9. iAy iB.
+iA. iBy iC.
+iB. iCy iD.
+i0. i1_ i2y
+i1. i2_ i3y
+i2. i3_ i4y
+i3. i4_ i5y
+i4. i5_ i6y
+i5. i6_ i7y
+i6. i7_ i8y
+i7. i8_ i9y
+i8. i9_ iAy
+i9. iA_ iBy
+iA. iB_ iCy
+iB. iC_ iDy
+i0_ i1. i2y
+i1_ i2. i3y
+i2_ i3. i4y
+i3_ i4. i5y
+i4_ i5. i6y
+i5_ i6. i7y
+i6_ i7. i8y
+i7_ i8. i9y
+i8_ i9. iAy
+i9_ iA. iBy
+iA_ iB. iCy
+iB_ iC. iDy
+i0. i1_ i2y i3. i4_
+i1. i2_ i3y i4. i5_
+i2. i3_ i4y i5. i6_
+i3. i4_ i5y i6. i7_
+i4. i5_ i6y i7. i8_
+i5. i6_ i7y i8. i9_
+i6. i7_ i8y i9. iA_
+i7. i8_ i9y iA. iB_
+i8. i9_ iAy iB. iC_
+i9. iA_ iBy iC. iD_
+i0. i1_ i2y i3_ i4.
+i1. i2_ i3y i4_ i5.
+i2. i3_ i4y i5_ i6.
+i3. i4_ i5y i6_ i7.
+i4. i5_ i6y i7_ i8.
+i5. i6_ i7y i8_ i9.
+i6. i7_ i8y i9_ iA.
+i7. i8_ i9y iA_ iB.
+i8. i9_ iAy iB_ iC.
+i9. iA_ iBy iC_ iD.
+i0. i1_ i2y i3_
+i1. i2_ i3y i4_
+i2. i3_ i4y i5_
+i3. i4_ i5y i6_
+i4. i5_ i6y i7_
+i5. i6_ i7y i8_
+i6. i7_ i8y i9_
+i7. i8_ i9y iA_
+i8. i9_ iAy iB_
+i9. iA_ iBy iC_
+iA. iB_ iCy iD_
+i0. i1_ i2y i3.
+i1. i2_ i3y i4.
+i2. i3_ i4y i5.
+i3. i4_ i5y i6.
+i4. i5_ i6y i7.
+i5. i6_ i7y i8.
+i6. i7_ i8y i9.
+i7. i8_ i9y iA.
+i8. i9_ iAy iB.
+i9. iA_ iBy iC.
+iA. iB_ iCy iD.
+i0_ i1. i2y i3.
+i1_ i2. i3y i4.
+i2_ i3. i4y i5.
+i3_ i4. i5y i6.
+i4_ i5. i6y i7.
+i5_ i6. i7y i8.
+i6_ i7. i8y i9.
+i7_ i8. i9y iA.
+i8_ i9. iAy iB.
+i9_ iA. iBy iC.
+iA_ iB. iCy iD.
+i0_ i1. i2y i3. i4_
+i1_ i2. i3y i4. i5_
+i2_ i3. i4y i5. i6_
+i3_ i4. i5y i6. i7_
+i4_ i5. i6y i7. i8_
+i5_ i6. i7y i8. i9_
+i6_ i7. i8y i9. iA_
+i7_ i8. i9y iA. iB_
+i8_ i9. iAy iB. iC_
+i9_ iA. iBy iC. iD_
+i0_ i1. i2y i3_ i4.
+i1_ i2. i3y i4_ i5.
+i2_ i3. i4y i5_ i6.
+i3_ i4. i5y i6_ i7.
+i4_ i5. i6y i7_ i8.
+i5_ i6. i7y i8_ i9.
+i6_ i7. i8y i9_ iA.
+i7_ i8. i9y iA_ iB.
+i8_ i9. iAy iB_ iC.
+i9_ iA. iBy iC_ iD.
+i0_ i1. i2y i3_
+i1_ i2. i3y i4_
+i2_ i3. i4y i5_
+i3_ i4. i5y i6_
+i4_ i5. i6y i7_
+i5_ i6. i7y i8_
+i6_ i7. i8y i9_
+i7_ i8. i9y iA_
+i8_ i9. iAy iB_
+i9_ iA. iBy iC_
+iA_ iB. iCy iD_
+i0- i1y
+i1- i2y
+i2- i3y
+i3- i4y
+i4- i5y
+i5- i6y
+i6- i7y
+i7- i8y
+i8- i9y
+i9- iAy
+iA- iBy
+iB- iCy
+iC- iDy
+i0y i1-
+i1y i2-
+i2y i3-
+i3y i4-
+i4y i5-
+i5y i6-
+i6y i7-
+i7y i8-
+i8y i9-
+i9y iA-
+iAy iB-
+iBy iC-
+iCy iD-
+i0- i1y i2-
+i1- i2y i3-
+i2- i3y i4-
+i3- i4y i5-
+i4- i5y i6-
+i5- i6y i7-
+i6- i7y i8-
+i7- i8y i9-
+i8- i9y iA-
+i9- iAy iB-
+iA- iBy iC-
+iB- iCy iD-
+i0- i1y i2.
+i1- i2y i3.
+i2- i3y i4.
+i3- i4y i5.
+i4- i5y i6.
+i5- i6y i7.
+i6- i7y i8.
+i7- i8y i9.
+i8- i9y iA.
+i9- iAy iB.
+iA- iBy iC.
+iB- iCy iD.
+i0. i1y i2-
+i1. i2y i3-
+i2. i3y i4-
+i3. i4y i5-
+i4. i5y i6-
+i5. i6y i7-
+i6. i7y i8-
+i7. i8y i9-
+i8. i9y iA-
+i9. iAy iB-
+iA. iBy iC-
+iB. iCy iD-
+i0z
+i1z
+i2z
+i3z
+i4z
+i5z
+i6z
+i7z
+i8z
+i9z
+iAz
+iBz
+iCz
+iDz
+i0_ i1z
+i1_ i2z
+i2_ i3z
+i3_ i4z
+i4_ i5z
+i5_ i6z
+i6_ i7z
+i7_ i8z
+i8_ i9z
+i9_ iAz
+iA_ iBz
+iB_ iCz
+iC_ iDz
+i0z i1_
+i1z i2_
+i2z i3_
+i3z i4_
+i4z i5_
+i5z i6_
+i6z i7_
+i7z i8_
+i8z i9_
+i9z iA_
+iAz iB_
+iBz iC_
+iCz iD_
+i0_ i1z i2_
+i1_ i2z i3_
+i2_ i3z i4_
+i3_ i4z i5_
+i4_ i5z i6_
+i5_ i6z i7_
+i6_ i7z i8_
+i7_ i8z i9_
+i8_ i9z iA_
+i9_ iAz iB_
+iA_ iBz iC_
+iB_ iCz iD_
+i0. i1z
+i1. i2z
+i2. i3z
+i3. i4z
+i4. i5z
+i5. i6z
+i6. i7z
+i7. i8z
+i8. i9z
+i9. iAz
+iA. iBz
+iB. iCz
+iC. iDz
+i0z i1.
+i1z i2.
+i2z i3.
+i3z i4.
+i4z i5.
+i5z i6.
+i6z i7.
+i7z i8.
+i8z i9.
+i9z iA.
+iAz iB.
+iBz iC.
+iCz iD.
+i0. i1z i2.
+i1. i2z i3.
+i2. i3z i4.
+i3. i4z i5.
+i4. i5z i6.
+i5. i6z i7.
+i6. i7z i8.
+i7. i8z i9.
+i8. i9z iA.
+i9. iAz iB.
+iA. iBz iC.
+iB. iCz iD.
+i0. i1_ i2z
+i1. i2_ i3z
+i2. i3_ i4z
+i3. i4_ i5z
+i4. i5_ i6z
+i5. i6_ i7z
+i6. i7_ i8z
+i7. i8_ i9z
+i8. i9_ iAz
+i9. iA_ iBz
+iA. iB_ iCz
+iB. iC_ iDz
+i0_ i1. i2z
+i1_ i2. i3z
+i2_ i3. i4z
+i3_ i4. i5z
+i4_ i5. i6z
+i5_ i6. i7z
+i6_ i7. i8z
+i7_ i8. i9z
+i8_ i9. iAz
+i9_ iA. iBz
+iA_ iB. iCz
+iB_ iC. iDz
+i0. i1_ i2z i3. i4_
+i1. i2_ i3z i4. i5_
+i2. i3_ i4z i5. i6_
+i3. i4_ i5z i6. i7_
+i4. i5_ i6z i7. i8_
+i5. i6_ i7z i8. i9_
+i6. i7_ i8z i9. iA_
+i7. i8_ i9z iA. iB_
+i8. i9_ iAz iB. iC_
+i9. iA_ iBz iC. iD_
+i0. i1_ i2z i3_ i4.
+i1. i2_ i3z i4_ i5.
+i2. i3_ i4z i5_ i6.
+i3. i4_ i5z i6_ i7.
+i4. i5_ i6z i7_ i8.
+i5. i6_ i7z i8_ i9.
+i6. i7_ i8z i9_ iA.
+i7. i8_ i9z iA_ iB.
+i8. i9_ iAz iB_ iC.
+i9. iA_ iBz iC_ iD.
+i0. i1_ i2z i3_
+i1. i2_ i3z i4_
+i2. i3_ i4z i5_
+i3. i4_ i5z i6_
+i4. i5_ i6z i7_
+i5. i6_ i7z i8_
+i6. i7_ i8z i9_
+i7. i8_ i9z iA_
+i8. i9_ iAz iB_
+i9. iA_ iBz iC_
+iA. iB_ iCz iD_
+i0. i1_ i2z i3.
+i1. i2_ i3z i4.
+i2. i3_ i4z i5.
+i3. i4_ i5z i6.
+i4. i5_ i6z i7.
+i5. i6_ i7z i8.
+i6. i7_ i8z i9.
+i7. i8_ i9z iA.
+i8. i9_ iAz iB.
+i9. iA_ iBz iC.
+iA. iB_ iCz iD.
+i0_ i1. i2z i3.
+i1_ i2. i3z i4.
+i2_ i3. i4z i5.
+i3_ i4. i5z i6.
+i4_ i5. i6z i7.
+i5_ i6. i7z i8.
+i6_ i7. i8z i9.
+i7_ i8. i9z iA.
+i8_ i9. iAz iB.
+i9_ iA. iBz iC.
+iA_ iB. iCz iD.
+i0_ i1. i2z i3. i4_
+i1_ i2. i3z i4. i5_
+i2_ i3. i4z i5. i6_
+i3_ i4. i5z i6. i7_
+i4_ i5. i6z i7. i8_
+i5_ i6. i7z i8. i9_
+i6_ i7. i8z i9. iA_
+i7_ i8. i9z iA. iB_
+i8_ i9. iAz iB. iC_
+i9_ iA. iBz iC. iD_
+i0_ i1. i2z i3_ i4.
+i1_ i2. i3z i4_ i5.
+i2_ i3. i4z i5_ i6.
+i3_ i4. i5z i6_ i7.
+i4_ i5. i6z i7_ i8.
+i5_ i6. i7z i8_ i9.
+i6_ i7. i8z i9_ iA.
+i7_ i8. i9z iA_ iB.
+i8_ i9. iAz iB_ iC.
+i9_ iA. iBz iC_ iD.
+i0_ i1. i2z i3_
+i1_ i2. i3z i4_
+i2_ i3. i4z i5_
+i3_ i4. i5z i6_
+i4_ i5. i6z i7_
+i5_ i6. i7z i8_
+i6_ i7. i8z i9_
+i7_ i8. i9z iA_
+i8_ i9. iAz iB_
+i9_ iA. iBz iC_
+iA_ iB. iCz iD_
+i0- i1z
+i1- i2z
+i2- i3z
+i3- i4z
+i4- i5z
+i5- i6z
+i6- i7z
+i7- i8z
+i8- i9z
+i9- iAz
+iA- iBz
+iB- iCz
+iC- iDz
+i0z i1-
+i1z i2-
+i2z i3-
+i3z i4-
+i4z i5-
+i5z i6-
+i6z i7-
+i7z i8-
+i8z i9-
+i9z iA-
+iAz iB-
+iBz iC-
+iCz iD-
+i0- i1z i2-
+i1- i2z i3-
+i2- i3z i4-
+i3- i4z i5-
+i4- i5z i6-
+i5- i6z i7-
+i6- i7z i8-
+i7- i8z i9-
+i8- i9z iA-
+i9- iAz iB-
+iA- iBz iC-
+iB- iCz iD-
+i0- i1z i2.
+i1- i2z i3.
+i2- i3z i4.
+i3- i4z i5.
+i4- i5z i6.
+i5- i6z i7.
+i6- i7z i8.
+i7- i8z i9.
+i8- i9z iA.
+i9- iAz iB.
+iA- iBz iC.
+iB- iCz iD.
+i0. i1z i2-
+i1. i2z i3-
+i2. i3z i4-
+i3. i4z i5-
+i4. i5z i6-
+i5. i6z i7-
+i6. i7z i8-
+i7. i8z i9-
+i8. i9z iA-
+i9. iAz iB-
+iA. iBz iC-
+iB. iCz iD-
