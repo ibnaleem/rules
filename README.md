@@ -5,7 +5,7 @@ An updated, curated collection of Hashcat rules for cracking complex passwords.
 
 [![Hashcat-rules-benchmark-chart.png](https://i.postimg.cc/8zhxTzBh/Hashcat-rules-benchmark-chart.png)](https://postimg.cc/dhV5Bvf1)
 
-> *Benchmarks credit: A1131*
+> *Benchmarks credit: [A1131](https://github.com/A113L)*
 
 ## 🤝 Contributing
 Simply fork the repo, commit your changes, and open a PR.
