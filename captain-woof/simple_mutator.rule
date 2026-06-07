@@ -1,0 +1,50 @@
+## ONLY USE LOWERCASE WORDLIST WITH THIS
+
+## passthrough
+:
+
+## lowercase all chars
+l
+
+## uppercase all chars
+u
+
+## uppercase first character, lowercase rest
+c
+
+## lowercase first character, uppercase rest
+C
+
+## reverse entire word
+r
+
+## leet substitution
+sa4 se3 sg6 sh# si1 so0 ss$ st+ sz2
+sa4 se3 sg6 sh# si1 so0 ss$ st7 sz2
+sa4 se3 sg6 sh# si1 so0 ss5 st+ sz2
+sa4 se3 sg6 sh# si1 so0 ss5 st7 sz2
+sa4 se3 sg6 sh# si! so0 ss$ st+ sz2
+sa4 se3 sg6 sh# si! so0 ss$ st7 sz2
+sa4 se3 sg6 sh# si! so0 ss5 st+ sz2
+sa4 se3 sg6 sh# si! so0 ss5 st7 sz2
+sa@ se3 sg6 sh# si1 so0 ss$ st+ sz2
+sa@ se3 sg6 sh# si1 so0 ss$ st7 sz2
+sa@ se3 sg6 sh# si1 so0 ss5 st+ sz2
+sa@ se3 sg6 sh# si1 so0 ss5 st7 sz2
+sa@ se3 sg6 sh# si! so0 ss$ st+ sz2
+sa@ se3 sg6 sh# si! so0 ss$ st7 sz2
+sa@ se3 sg6 sh# si! so0 ss5 st+ sz2
+sa@ se3 sg6 sh# si! so0 ss5 st7 sz2
+sa4
+sa@
+se3
+sg6
+sh#
+si1
+si!
+so0
+ss$
+ss5
+st+
+st7
+sz2
