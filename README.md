@@ -13,4 +13,4 @@ Simply fork the repo, commit your changes, and open a PR.
 - n0kovo: original creator of this collection ([Repo](https://github.com/n0kovo/hashcat-rules-collection))
 - cakesec: updating n0kovo collection + adding fordy's rules ([Repo](https://github.com/cakesec/rules))
 - PenguinKeeper: For collecting statistics on rules + wordlists and their cracking probability ([Google Sheets](https://docs.google.com/spreadsheets/d/1qQNwggWIWtL-m0EYrRg_vdwHOrZCY-SnWcYTwQN0fMk/edit#gid=1952927995))
-- A1131: For more rules, [benchmarks](https://hcrt.pages.dev/rules_efficiency)), and best rules in this repository based on their occurrence
+- A1131: For more rules, [benchmarks](https://hcrt.pages.dev/rules_efficiency), and best rules in this repository based on their occurrence
